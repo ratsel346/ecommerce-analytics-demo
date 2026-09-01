@@ -1,0 +1,1991 @@
+customer_id,registration_date,country,city,age,signup_channel,marketing_consent,age_missing
+C00001,2024-03-22,Russia,Kazan,44,referral,1,0
+C00002,2025-12-06,Russia,Novosibirsk,24,referral,0,0
+C00003,2025-08-19,Russia,Kazan,44,organic,1,0
+C00004,2025-02-04,Russia,Kazan,66,organic,1,0
+C00005,2025-01-29,Belarus,Minsk,33,ads,1,0
+C00006,2026-02-22,Russia,Moscow,42,organic,1,0
+C00007,2024-03-19,Armenia,Yerevan,29,unknown,1,0
+C00008,2025-09-27,Russia,Saint Petersburg,20,ads,1,0
+C00009,2024-07-02,Kazakhstan,Astana,55,ads,1,0
+C00010,2024-03-26,Russia,Moscow,31,organic,1,0
+C00011,2025-04-25,Belarus,Minsk,46,referral,1,0
+C00012,2026-06-08,Russia,Saint Petersburg,54,ads,1,0
+C00013,2025-11-02,Russia,Novosibirsk,62,referral,1,0
+C00014,2025-11-25,Georgia,Tbilisi,27,organic,1,0
+C00015,2025-10-16,Russia,Kazan,48,ads,1,0
+C00016,2025-12-17,Russia,Kazan,66,organic,1,0
+C00017,2025-04-13,Belarus,Gomel,43,ads,1,0
+C00018,2024-04-26,Kazakhstan,Almaty,20,organic,0,0
+C00019,2026-02-04,Russia,Saint Petersburg,31,email,1,0
+C00020,2025-02-14,Russia,Moscow,60,organic,1,0
+C00021,2025-04-01,Armenia,Yerevan,59,ads,0,0
+C00022,2024-12-04,Kazakhstan,Astana,34,organic,0,0
+C00023,2024-06-15,Georgia,Tbilisi,28,ads,1,0
+C00024,2026-04-25,Russia,Novosibirsk,33,ads,1,0
+C00025,2025-12-13,Belarus,Minsk,30,ads,1,0
+C00026,2025-08-10,Russia,Saint Petersburg,57,organic,0,0
+C00027,2025-01-02,Georgia,Tbilisi,44,organic,1,1
+C00028,2026-01-20,Russia,Saint Petersburg,20,organic,1,0
+C00029,2025-05-12,Kazakhstan,Astana,44,email,1,1
+C00030,2025-02-08,Russia,Saint Petersburg,57,ads,1,0
+C00031,2025-02-14,Russia,Novosibirsk,50,organic,0,0
+C00032,2024-07-26,Kazakhstan,Almaty,64,email,1,0
+C00033,2024-03-25,Russia,Kazan,20,organic,1,0
+C00034,2025-05-20,Armenia,Yerevan,55,ads,1,0
+C00035,2026-03-20,Russia,Kazan,24,referral,0,0
+C00036,2024-02-28,Belarus,Minsk,65,email,1,0
+C00037,2026-02-21,Russia,Novosibirsk,44,referral,1,0
+C00038,2026-01-24,Russia,Kazan,44,ads,1,1
+C00039,2024-09-09,Russia,Novosibirsk,57,email,1,0
+C00040,2025-07-30,Russia,Novosibirsk,57,organic,0,0
+C00041,2024-05-30,Russia,Moscow,42,email,1,0
+C00042,2025-11-22,Belarus,Minsk,34,referral,1,0
+C00043,2025-09-30,Belarus,Gomel,18,email,1,0
+C00044,2024-11-19,Belarus,Minsk,44,organic,0,1
+C00045,2024-03-02,Russia,Saint Petersburg,27,organic,1,0
+C00046,2026-06-04,Russia,Moscow,62,ads,0,0
+C00047,2025-02-10,Russia,Saint Petersburg,49,ads,1,0
+C00048,2026-03-25,Kazakhstan,Almaty,54,ads,1,0
+C00049,2025-09-10,Armenia,Yerevan,54,unknown,1,0
+C00050,2025-12-10,Russia,Saint Petersburg,63,ads,1,0
+C00051,2025-11-24,Belarus,Gomel,19,organic,1,0
+C00052,2024-06-26,Russia,Kazan,70,ads,1,0
+C00053,2024-11-27,Russia,Saint Petersburg,20,organic,0,0
+C00054,2025-03-01,Russia,Moscow,70,organic,0,0
+C00055,2025-03-29,Russia,Kazan,31,organic,0,0
+C00056,2024-02-09,Belarus,Minsk,62,unknown,1,0
+C00057,2025-05-13,Armenia,Yerevan,22,referral,1,0
+C00058,2024-05-20,Russia,Saint Petersburg,42,ads,1,0
+C00059,2025-11-08,Russia,Saint Petersburg,46,ads,0,0
+C00060,2025-09-14,Kazakhstan,Almaty,68,ads,0,0
+C00061,2026-04-21,Georgia,Tbilisi,24,referral,1,0
+C00062,2025-11-10,Belarus,Minsk,19,referral,0,0
+C00063,2024-11-30,Russia,Saint Petersburg,52,ads,1,0
+C00064,2026-06-01,Belarus,Gomel,20,referral,1,0
+C00065,2025-01-09,Russia,Novosibirsk,59,ads,1,0
+C00066,2024-10-24,Georgia,Tbilisi,20,ads,1,0
+C00067,2026-04-05,Russia,Moscow,69,referral,1,0
+C00068,2024-12-03,Belarus,Gomel,46,ads,1,0
+C00069,2024-03-10,Russia,Kazan,68,ads,1,0
+C00070,2025-03-04,Russia,Saint Petersburg,24,organic,1,0
+C00071,2025-12-26,Armenia,Yerevan,32,ads,1,0
+C00072,2024-06-21,Belarus,Minsk,42,ads,1,0
+C00073,2025-02-26,Russia,Novosibirsk,19,ads,1,0
+C00074,2024-04-28,Georgia,Tbilisi,23,ads,0,0
+C00075,2025-09-18,Armenia,Yerevan,35,organic,1,0
+C00076,2025-03-09,Russia,Saint Petersburg,57,unknown,1,0
+C00077,2024-10-28,Russia,Moscow,44,organic,1,1
+C00078,2024-07-25,Russia,Saint Petersburg,22,email,1,0
+C00079,2025-05-29,Belarus,Minsk,21,organic,1,0
+C00080,2025-09-02,Russia,Saint Petersburg,52,ads,0,0
+C00081,2026-05-07,Russia,Moscow,37,ads,1,0
+C00082,2025-02-02,Armenia,Yerevan,59,referral,1,0
+C00083,2024-05-26,Armenia,Yerevan,33,organic,1,0
+C00084,2026-01-29,Kazakhstan,Almaty,37,email,1,0
+C00085,2025-07-28,Georgia,Tbilisi,29,ads,1,0
+C00086,2025-09-30,Kazakhstan,Astana,32,ads,1,0
+C00087,2024-03-29,Kazakhstan,Almaty,55,ads,1,0
+C00088,2024-10-11,Kazakhstan,Astana,42,organic,1,0
+C00089,2025-12-01,Russia,Kazan,52,ads,1,0
+C00090,2026-01-29,Russia,Kazan,22,organic,0,0
+C00091,2025-01-31,Russia,Novosibirsk,46,organic,1,0
+C00092,2026-01-03,Belarus,Minsk,44,ads,1,1
+C00093,2026-02-06,Russia,Saint Petersburg,66,ads,1,0
+C00094,2024-12-19,Russia,Moscow,40,organic,1,0
+C00095,2026-03-30,Russia,Kazan,23,organic,1,0
+C00096,2024-09-19,Russia,Kazan,54,organic,1,0
+C00097,2024-08-06,Russia,Novosibirsk,25,organic,1,0
+C00098,2025-09-14,Kazakhstan,Almaty,66,ads,1,0
+C00099,2025-08-03,Armenia,Yerevan,38,organic,1,0
+C00100,2024-05-07,Russia,Moscow,59,referral,1,0
+C00101,2026-01-29,Russia,Novosibirsk,52,organic,1,0
+C00102,2024-07-01,Russia,Kazan,42,organic,1,0
+C00103,2026-01-04,Kazakhstan,Astana,48,referral,1,0
+C00104,2024-01-07,Kazakhstan,Almaty,27,organic,0,0
+C00105,2025-12-27,Russia,Saint Petersburg,21,ads,1,0
+C00106,2025-12-18,Kazakhstan,Almaty,58,email,1,0
+C00107,2025-12-12,Russia,Kazan,68,email,1,0
+C00108,2025-08-29,Russia,Moscow,63,referral,1,0
+C00109,2025-03-06,Georgia,Tbilisi,34,organic,1,0
+C00110,2025-10-05,Russia,Novosibirsk,36,ads,1,0
+C00111,2024-09-09,Russia,Moscow,37,email,1,0
+C00112,2025-12-13,Russia,Saint Petersburg,55,email,1,0
+C00113,2025-05-21,Belarus,Minsk,44,organic,1,1
+C00114,2025-02-22,Georgia,Tbilisi,60,ads,1,0
+C00115,2025-04-06,Georgia,Tbilisi,68,unknown,0,0
+C00116,2025-06-02,Russia,Kazan,38,organic,0,0
+C00117,2024-02-03,Russia,Kazan,53,ads,1,0
+C00118,2024-05-07,Kazakhstan,Astana,44,organic,1,0
+C00119,2024-08-11,Russia,Novosibirsk,68,organic,1,0
+C00120,2024-04-14,Armenia,Yerevan,36,organic,0,0
+C00121,2025-02-04,Belarus,Minsk,27,ads,1,0
+C00122,2025-09-01,Russia,Moscow,38,organic,1,0
+C00123,2025-08-19,Kazakhstan,Astana,50,ads,1,0
+C00124,2025-03-05,Russia,Saint Petersburg,68,organic,1,0
+C00125,2026-02-18,Russia,Moscow,61,email,1,0
+C00126,2025-05-30,Russia,Novosibirsk,18,organic,1,0
+C00127,2024-03-13,Russia,Kazan,44,ads,1,0
+C00128,2025-11-28,Belarus,Minsk,26,organic,1,0
+C00129,2025-06-08,Belarus,Gomel,37,organic,1,0
+C00130,2025-08-01,Georgia,Tbilisi,68,organic,1,0
+C00131,2025-05-30,Georgia,Tbilisi,44,organic,1,1
+C00132,2025-05-19,Russia,Kazan,26,organic,0,0
+C00133,2024-03-23,Russia,Kazan,25,ads,1,0
+C00134,2025-05-24,Kazakhstan,Astana,54,ads,1,0
+C00135,2025-12-25,Georgia,Tbilisi,39,organic,1,0
+C00136,2024-10-04,Russia,Saint Petersburg,40,ads,1,0
+C00137,2025-07-03,Russia,Saint Petersburg,64,ads,0,0
+C00138,2024-01-29,Russia,Kazan,66,organic,0,0
+C00139,2024-11-12,Russia,Moscow,65,ads,1,0
+C00140,2025-02-02,Belarus,Minsk,59,organic,0,0
+C00141,2026-06-15,Russia,Novosibirsk,69,organic,0,0
+C00142,2024-07-14,Kazakhstan,Almaty,56,ads,1,0
+C00143,2024-09-09,Kazakhstan,Astana,44,email,1,1
+C00144,2025-01-07,Kazakhstan,Almaty,46,email,1,0
+C00145,2026-06-24,Russia,Moscow,20,email,1,0
+C00146,2026-02-17,Russia,Kazan,61,ads,1,0
+C00147,2024-02-01,Kazakhstan,Astana,67,organic,1,0
+C00148,2024-08-01,Kazakhstan,Almaty,34,organic,0,0
+C00149,2026-01-19,Russia,Moscow,40,organic,1,0
+C00150,2024-02-23,Armenia,Yerevan,48,organic,1,0
+C00151,2026-02-19,Russia,Moscow,52,organic,1,0
+C00152,2024-09-13,Armenia,Yerevan,53,ads,1,0
+C00153,2026-04-16,Russia,Moscow,38,organic,1,0
+C00154,2024-09-24,Russia,Novosibirsk,63,organic,1,0
+C00155,2025-01-31,Russia,Saint Petersburg,61,referral,1,0
+C00156,2025-08-26,Russia,Saint Petersburg,67,ads,0,0
+C00157,2024-04-25,Russia,Moscow,48,referral,1,0
+C00158,2025-05-23,Russia,Saint Petersburg,44,organic,1,1
+C00159,2025-04-05,Russia,Novosibirsk,44,ads,1,1
+C00160,2025-12-15,Kazakhstan,Almaty,22,organic,0,0
+C00161,2026-06-27,Russia,Kazan,28,ads,1,0
+C00162,2025-08-28,Belarus,Minsk,33,organic,1,0
+C00163,2025-01-08,Kazakhstan,Almaty,27,organic,1,0
+C00164,2025-01-05,Russia,Kazan,44,ads,1,1
+C00165,2025-01-16,Russia,Moscow,41,organic,1,0
+C00166,2026-01-12,Armenia,Yerevan,29,organic,1,0
+C00167,2024-10-19,Kazakhstan,Almaty,18,unknown,1,0
+C00168,2024-06-01,Russia,Saint Petersburg,29,organic,1,0
+C00169,2024-10-31,Kazakhstan,Almaty,54,ads,1,0
+C00170,2024-01-21,Russia,Kazan,60,ads,1,0
+C00171,2024-04-06,Russia,Novosibirsk,33,organic,1,0
+C00172,2024-03-23,Kazakhstan,Almaty,21,ads,1,0
+C00173,2025-12-04,Russia,Novosibirsk,47,organic,0,0
+C00174,2025-10-20,Kazakhstan,Astana,59,referral,1,0
+C00175,2025-09-27,Russia,Kazan,21,organic,1,0
+C00176,2025-02-25,Kazakhstan,Almaty,60,organic,1,0
+C00177,2025-10-15,Russia,Novosibirsk,27,organic,1,0
+C00178,2024-05-27,Russia,Moscow,31,email,1,0
+C00179,2026-04-01,Russia,Novosibirsk,51,referral,0,0
+C00180,2025-04-01,Russia,Kazan,20,email,1,0
+C00181,2026-05-05,Kazakhstan,Almaty,34,ads,0,0
+C00182,2024-05-18,Russia,Moscow,25,ads,1,0
+C00183,2025-03-29,Russia,Kazan,44,ads,1,1
+C00184,2025-09-27,Russia,Moscow,58,email,1,0
+C00185,2025-03-28,Russia,Kazan,30,ads,0,0
+C00186,2025-02-10,Kazakhstan,Astana,20,ads,1,0
+C00187,2024-05-31,Russia,Saint Petersburg,29,ads,1,0
+C00188,2024-12-13,Georgia,Tbilisi,22,unknown,1,0
+C00189,2024-08-05,Russia,Moscow,51,organic,0,0
+C00190,2024-10-01,Belarus,Minsk,69,ads,1,0
+C00191,2025-09-15,Russia,Moscow,26,organic,1,0
+C00192,2025-07-28,Russia,Moscow,56,referral,1,0
+C00193,2025-07-07,Armenia,Yerevan,37,ads,1,0
+C00194,2024-11-25,Georgia,Tbilisi,21,referral,1,0
+C00195,2026-05-25,Armenia,Yerevan,54,ads,1,0
+C00196,2024-03-20,Russia,Moscow,29,unknown,1,0
+C00197,2024-11-08,Russia,Kazan,45,organic,1,0
+C00198,2024-04-17,Belarus,Minsk,44,email,1,0
+C00199,2024-11-05,Russia,Novosibirsk,49,ads,1,0
+C00200,2026-05-27,Kazakhstan,Astana,25,organic,1,0
+C00201,2024-11-30,Russia,Novosibirsk,31,organic,1,0
+C00202,2026-04-08,Russia,Kazan,57,organic,1,0
+C00203,2025-03-27,Kazakhstan,Almaty,67,ads,1,0
+C00204,2025-09-30,Kazakhstan,Astana,18,referral,1,0
+C00205,2025-02-21,Russia,Moscow,39,email,0,0
+C00206,2024-08-30,Russia,Saint Petersburg,64,ads,1,0
+C00207,2025-11-27,Belarus,Minsk,33,ads,1,0
+C00208,2026-06-02,Russia,Kazan,41,ads,1,0
+C00209,2024-08-28,Russia,Kazan,65,unknown,1,0
+C00210,2025-12-11,Russia,Novosibirsk,69,referral,1,0
+C00211,2024-08-26,Kazakhstan,Astana,52,organic,0,0
+C00212,2025-10-15,Kazakhstan,Almaty,54,email,1,0
+C00213,2025-12-20,Russia,Novosibirsk,44,ads,1,1
+C00214,2025-02-13,Russia,Moscow,33,referral,0,0
+C00215,2025-11-03,Russia,Novosibirsk,64,email,1,0
+C00216,2024-09-05,Russia,Moscow,19,referral,1,0
+C00217,2024-03-13,Russia,Novosibirsk,21,organic,0,0
+C00218,2024-03-28,Russia,Saint Petersburg,49,ads,1,0
+C00219,2025-02-11,Belarus,Gomel,62,organic,0,0
+C00220,2026-04-03,Russia,Moscow,61,referral,0,0
+C00221,2024-04-26,Russia,Saint Petersburg,53,organic,1,0
+C00222,2025-02-19,Russia,Novosibirsk,37,ads,1,0
+C00223,2025-10-04,Armenia,Yerevan,37,email,1,0
+C00224,2024-07-03,Belarus,Minsk,40,organic,1,0
+C00225,2025-10-20,Russia,Saint Petersburg,31,ads,1,0
+C00226,2024-10-06,Armenia,Yerevan,40,ads,0,0
+C00227,2026-01-07,Russia,Moscow,23,unknown,1,0
+C00228,2025-06-12,Russia,Saint Petersburg,34,organic,1,0
+C00229,2025-05-13,Georgia,Tbilisi,67,organic,0,0
+C00230,2024-06-10,Russia,Saint Petersburg,55,ads,1,0
+C00231,2025-02-26,Russia,Kazan,25,ads,0,0
+C00232,2026-02-20,Russia,Saint Petersburg,33,ads,1,0
+C00233,2024-01-18,Russia,Moscow,44,organic,0,1
+C00234,2025-11-22,Belarus,Minsk,32,ads,1,0
+C00235,2025-03-25,Russia,Novosibirsk,54,ads,1,0
+C00236,2025-10-18,Russia,Novosibirsk,65,organic,1,0
+C00237,2025-08-27,Russia,Moscow,55,referral,0,0
+C00238,2025-01-29,Russia,Moscow,43,organic,1,0
+C00239,2024-10-08,Russia,Moscow,44,ads,1,1
+C00240,2025-07-26,Russia,Novosibirsk,25,email,1,0
+C00241,2024-05-07,Armenia,Yerevan,61,ads,1,0
+C00242,2025-06-16,Russia,Kazan,53,ads,1,0
+C00243,2024-03-27,Russia,Novosibirsk,45,organic,1,0
+C00244,2025-08-15,Russia,Saint Petersburg,48,organic,1,0
+C00245,2025-07-27,Russia,Kazan,62,organic,1,0
+C00246,2024-03-18,Russia,Moscow,61,referral,0,0
+C00247,2025-11-21,Belarus,Gomel,22,referral,1,0
+C00248,2025-01-14,Russia,Kazan,38,organic,1,0
+C00249,2025-12-18,Armenia,Yerevan,20,organic,0,0
+C00250,2024-02-07,Georgia,Tbilisi,38,organic,1,0
+C00251,2024-06-12,Russia,Saint Petersburg,51,ads,0,0
+C00252,2025-03-26,Russia,Kazan,29,ads,1,0
+C00254,2024-10-27,Belarus,Minsk,44,email,1,0
+C00255,2025-08-25,Russia,Moscow,45,organic,1,0
+C00256,2024-05-11,Armenia,Yerevan,55,ads,0,0
+C00257,2025-09-10,Kazakhstan,Almaty,18,ads,1,0
+C00258,2024-04-04,Kazakhstan,Astana,31,organic,1,0
+C00259,2024-06-08,Russia,Saint Petersburg,59,email,1,0
+C00260,2025-06-19,Georgia,Tbilisi,54,organic,0,0
+C00261,2025-12-24,Russia,Saint Petersburg,65,referral,1,0
+C00262,2024-06-04,Russia,Kazan,61,referral,1,0
+C00263,2024-09-30,Russia,Saint Petersburg,62,email,1,0
+C00264,2026-04-23,Georgia,Tbilisi,45,ads,1,0
+C00265,2026-06-21,Russia,Saint Petersburg,68,organic,1,0
+C00266,2025-06-13,Kazakhstan,Astana,40,referral,1,0
+C00267,2025-02-11,Russia,Kazan,65,referral,0,0
+C00268,2024-11-12,Georgia,Tbilisi,38,ads,1,0
+C00269,2025-07-12,Russia,Kazan,41,referral,1,0
+C00270,2025-06-22,Russia,Moscow,54,organic,1,0
+C00271,2024-09-25,Georgia,Tbilisi,39,ads,0,0
+C00272,2024-01-21,Russia,Saint Petersburg,25,referral,1,0
+C00273,2024-05-18,Russia,Saint Petersburg,65,organic,1,0
+C00274,2026-05-24,Russia,Kazan,42,unknown,1,0
+C00275,2025-01-16,Russia,Moscow,67,email,1,0
+C00276,2025-03-15,Russia,Moscow,39,referral,1,0
+C00277,2025-03-02,Russia,Novosibirsk,69,referral,1,0
+C00278,2025-12-14,Russia,Kazan,49,ads,0,0
+C00279,2024-02-29,Armenia,Yerevan,58,email,1,0
+C00280,2024-03-16,Russia,Novosibirsk,58,organic,1,0
+C00281,2024-09-08,Russia,Saint Petersburg,28,ads,1,0
+C00282,2025-03-19,Russia,Novosibirsk,61,unknown,0,0
+C00283,2025-09-04,Russia,Saint Petersburg,68,referral,0,0
+C00284,2025-03-23,Belarus,Gomel,53,email,1,0
+C00285,2025-02-06,Georgia,Tbilisi,68,referral,0,0
+C00286,2026-05-05,Georgia,Tbilisi,62,ads,1,0
+C00287,2024-05-26,Russia,Moscow,53,ads,0,0
+C00288,2025-06-05,Russia,Novosibirsk,43,ads,1,0
+C00289,2025-05-09,Russia,Saint Petersburg,44,ads,1,1
+C00290,2025-03-07,Russia,Novosibirsk,27,organic,1,0
+C00291,2026-01-06,Russia,Saint Petersburg,47,ads,1,0
+C00292,2024-08-31,Belarus,Gomel,61,referral,1,0
+C00293,2026-05-19,Russia,Saint Petersburg,68,referral,1,0
+C00294,2024-10-29,Russia,Moscow,32,referral,0,0
+C00295,2025-05-12,Russia,Moscow,22,ads,1,0
+C00296,2025-04-19,Russia,Kazan,35,ads,0,0
+C00297,2026-02-13,Russia,Moscow,63,organic,1,0
+C00298,2025-02-04,Russia,Saint Petersburg,45,ads,0,0
+C00299,2024-09-16,Kazakhstan,Astana,20,ads,0,0
+C00300,2024-01-20,Russia,Saint Petersburg,24,organic,1,0
+C00301,2024-11-27,Russia,Moscow,35,organic,0,0
+C00302,2026-01-23,Russia,Kazan,36,ads,0,0
+C00303,2024-01-10,Kazakhstan,Astana,25,ads,0,0
+C00304,2026-03-28,Russia,Kazan,44,ads,1,0
+C00305,2025-05-10,Kazakhstan,Astana,43,organic,0,0
+C00306,2024-05-07,Georgia,Tbilisi,28,ads,0,0
+C00307,2024-10-02,Russia,Moscow,30,ads,0,0
+C00308,2025-05-20,Belarus,Minsk,53,ads,1,0
+C00309,2024-10-14,Russia,Moscow,68,ads,0,0
+C00310,2024-04-09,Georgia,Tbilisi,70,organic,0,0
+C00311,2025-08-30,Russia,Novosibirsk,47,email,1,0
+C00312,2025-09-05,Armenia,Yerevan,20,organic,1,0
+C00313,2024-04-18,Russia,Kazan,65,unknown,0,0
+C00314,2024-09-13,Russia,Moscow,68,organic,1,0
+C00315,2024-08-10,Russia,Kazan,32,ads,0,0
+C00316,2025-08-24,Belarus,Minsk,39,organic,1,0
+C00317,2025-10-28,Russia,Saint Petersburg,19,referral,1,0
+C00318,2025-10-25,Russia,Kazan,60,ads,1,0
+C00319,2026-05-06,Kazakhstan,Astana,59,ads,1,0
+C00320,2025-12-02,Armenia,Yerevan,19,organic,1,0
+C00321,2024-10-19,Russia,Novosibirsk,55,organic,0,0
+C00322,2024-04-08,Russia,Kazan,39,ads,1,0
+C00323,2025-07-14,Russia,Novosibirsk,46,ads,1,0
+C00324,2026-04-15,Kazakhstan,Astana,29,ads,1,0
+C00325,2026-06-08,Russia,Moscow,61,email,0,0
+C00326,2024-07-28,Armenia,Yerevan,39,referral,1,0
+C00327,2024-08-03,Russia,Moscow,44,email,1,1
+C00328,2024-02-04,Russia,Novosibirsk,25,organic,1,0
+C00329,2024-05-08,Russia,Moscow,49,referral,1,0
+C00330,2025-05-21,Russia,Saint Petersburg,34,ads,1,0
+C00331,2025-05-13,Kazakhstan,Almaty,69,ads,1,0
+C00332,2024-12-04,Russia,Saint Petersburg,47,email,1,0
+C00333,2024-10-09,Russia,Kazan,56,ads,1,0
+C00334,2026-01-26,Georgia,Tbilisi,44,referral,1,1
+C00335,2025-02-23,Georgia,Tbilisi,53,referral,0,0
+C00336,2026-01-07,Armenia,Yerevan,23,organic,0,0
+C00337,2026-05-28,Russia,Moscow,37,ads,1,0
+C00338,2024-10-16,Russia,Saint Petersburg,29,ads,1,0
+C00339,2024-07-03,Armenia,Yerevan,18,email,0,0
+C00340,2026-05-19,Russia,Novosibirsk,49,referral,1,0
+C00341,2025-08-01,Russia,Moscow,30,organic,1,0
+C00342,2024-09-22,Kazakhstan,Almaty,45,organic,1,0
+C00343,2025-07-21,Russia,Saint Petersburg,58,organic,0,0
+C00344,2025-04-14,Russia,Novosibirsk,27,ads,1,0
+C00345,2026-04-05,Georgia,Tbilisi,55,organic,1,0
+C00346,2024-08-21,Belarus,Minsk,33,referral,0,0
+C00347,2026-06-23,Russia,Kazan,35,ads,1,0
+C00348,2026-05-03,Russia,Moscow,48,referral,1,0
+C00349,2024-06-13,Russia,Kazan,51,organic,1,0
+C00350,2024-05-30,Russia,Moscow,52,ads,1,0
+C00351,2025-05-01,Kazakhstan,Astana,28,organic,0,0
+C00352,2024-02-10,Kazakhstan,Almaty,48,referral,0,0
+C00353,2024-09-29,Russia,Novosibirsk,31,organic,0,0
+C00354,2025-01-31,Russia,Saint Petersburg,32,organic,0,0
+C00355,2026-06-03,Armenia,Yerevan,68,organic,1,0
+C00356,2026-06-24,Russia,Moscow,23,referral,0,0
+C00357,2024-05-18,Russia,Saint Petersburg,39,organic,1,0
+C00358,2026-03-24,Russia,Moscow,41,ads,0,0
+C00359,2024-03-23,Belarus,Minsk,44,referral,0,1
+C00360,2025-11-13,Russia,Kazan,59,referral,0,0
+C00361,2026-02-10,Belarus,Minsk,43,organic,1,0
+C00362,2026-03-23,Russia,Saint Petersburg,56,organic,1,0
+C00363,2024-07-22,Belarus,Gomel,38,ads,1,0
+C00364,2026-03-25,Russia,Moscow,65,organic,0,0
+C00365,2024-04-15,Russia,Saint Petersburg,56,ads,1,0
+C00366,2025-04-18,Russia,Moscow,35,ads,1,0
+C00367,2025-03-04,Russia,Saint Petersburg,68,ads,1,0
+C00368,2024-10-15,Russia,Saint Petersburg,63,organic,0,0
+C00369,2024-01-21,Russia,Moscow,44,ads,0,1
+C00370,2025-12-05,Russia,Moscow,18,organic,0,0
+C00371,2024-11-02,Russia,Novosibirsk,49,ads,1,0
+C00372,2025-08-26,Georgia,Tbilisi,54,organic,1,0
+C00373,2025-01-09,Russia,Moscow,37,email,1,0
+C00374,2024-12-06,Kazakhstan,Astana,25,ads,1,0
+C00375,2026-03-19,Georgia,Tbilisi,47,organic,1,0
+C00376,2024-03-27,Russia,Novosibirsk,60,organic,1,0
+C00377,2025-11-02,Belarus,Minsk,34,organic,0,0
+C00378,2025-11-12,Armenia,Yerevan,42,organic,1,0
+C00379,2024-12-12,Belarus,Minsk,18,organic,0,0
+C00380,2024-08-27,Russia,Novosibirsk,55,referral,0,0
+C00381,2024-01-05,Russia,Novosibirsk,63,ads,1,0
+C00382,2026-05-04,Russia,Moscow,59,organic,1,0
+C00383,2026-05-14,Russia,Novosibirsk,40,ads,1,0
+C00384,2024-08-07,Georgia,Tbilisi,20,organic,1,0
+C00385,2024-01-30,Georgia,Tbilisi,44,email,0,0
+C00386,2024-04-21,Russia,Novosibirsk,67,organic,1,0
+C00387,2024-03-02,Kazakhstan,Almaty,22,referral,0,0
+C00388,2026-01-27,Russia,Moscow,29,referral,1,0
+C00389,2026-03-24,Armenia,Yerevan,62,organic,1,0
+C00390,2024-05-19,Russia,Kazan,48,organic,1,0
+C00391,2025-11-12,Georgia,Tbilisi,27,ads,1,0
+C00392,2024-06-12,Kazakhstan,Almaty,19,referral,1,0
+C00393,2024-11-30,Russia,Kazan,39,ads,1,0
+C00394,2025-06-30,Russia,Moscow,49,unknown,0,0
+C00395,2025-10-18,Kazakhstan,Astana,62,referral,1,0
+C00396,2026-03-08,Russia,Moscow,64,referral,0,0
+C00397,2024-02-10,Russia,Moscow,44,ads,1,1
+C00398,2024-06-28,Armenia,Yerevan,40,ads,1,0
+C00399,2024-09-12,Russia,Moscow,67,referral,1,0
+C00400,2024-10-10,Russia,Moscow,59,organic,1,0
+C00401,2026-06-29,Russia,Kazan,29,referral,0,0
+C00402,2025-12-09,Russia,Moscow,54,organic,1,0
+C00403,2024-10-19,Georgia,Tbilisi,55,organic,1,0
+C00405,2025-03-31,Russia,Kazan,69,organic,1,0
+C00406,2025-04-01,Russia,Saint Petersburg,33,organic,0,0
+C00408,2024-05-11,Russia,Novosibirsk,44,ads,0,0
+C00409,2026-05-02,Armenia,Yerevan,54,referral,1,0
+C00410,2024-01-13,Kazakhstan,Astana,65,organic,0,0
+C00411,2024-06-07,Kazakhstan,Astana,38,organic,0,0
+C00412,2024-07-28,Georgia,Tbilisi,38,ads,1,0
+C00413,2024-09-11,Kazakhstan,Almaty,57,email,1,0
+C00414,2024-04-30,Georgia,Tbilisi,68,organic,1,0
+C00415,2024-01-17,Russia,Kazan,66,email,1,0
+C00416,2025-09-10,Kazakhstan,Astana,57,referral,1,0
+C00417,2026-06-03,Russia,Novosibirsk,55,organic,1,0
+C00418,2024-04-21,Russia,Saint Petersburg,58,referral,1,0
+C00419,2024-09-27,Armenia,Yerevan,67,ads,0,0
+C00420,2025-04-06,Georgia,Tbilisi,18,ads,0,0
+C00421,2026-04-25,Kazakhstan,Astana,49,ads,1,0
+C00422,2025-09-25,Russia,Saint Petersburg,19,referral,1,0
+C00423,2025-11-29,Russia,Moscow,48,referral,0,0
+C00424,2025-06-13,Russia,Moscow,38,unknown,0,0
+C00425,2025-01-15,Russia,Novosibirsk,34,email,1,0
+C00427,2026-02-27,Russia,Saint Petersburg,55,referral,1,0
+C00428,2026-01-03,Russia,Kazan,48,unknown,0,0
+C00429,2024-01-23,Kazakhstan,Almaty,64,organic,0,0
+C00430,2025-10-14,Russia,Moscow,23,organic,1,0
+C00431,2024-03-17,Georgia,Tbilisi,52,ads,0,0
+C00432,2025-11-04,Belarus,Gomel,26,referral,0,0
+C00433,2026-01-23,Russia,Kazan,30,organic,1,0
+C00434,2024-04-29,Russia,Novosibirsk,27,unknown,1,0
+C00435,2025-01-30,Russia,Novosibirsk,46,organic,0,0
+C00436,2024-04-22,Georgia,Tbilisi,51,ads,0,0
+C00437,2025-06-01,Russia,Saint Petersburg,58,ads,1,0
+C00438,2026-04-25,Russia,Novosibirsk,41,organic,0,0
+C00439,2024-03-14,Georgia,Tbilisi,67,referral,1,0
+C00440,2024-12-28,Georgia,Tbilisi,37,organic,1,0
+C00441,2026-06-06,Russia,Saint Petersburg,26,email,1,0
+C00442,2024-10-01,Russia,Novosibirsk,19,organic,1,0
+C00443,2024-04-30,Russia,Moscow,24,email,1,0
+C00444,2025-03-21,Russia,Moscow,41,ads,0,0
+C00445,2025-04-08,Russia,Moscow,39,organic,1,0
+C00446,2025-08-27,Russia,Novosibirsk,63,organic,1,0
+C00447,2024-10-13,Armenia,Yerevan,24,organic,0,0
+C00448,2026-05-21,Russia,Moscow,31,ads,1,0
+C00449,2025-04-20,Belarus,Gomel,69,referral,0,0
+C00450,2024-09-18,Russia,Kazan,19,ads,1,0
+C00451,2026-05-25,Kazakhstan,Almaty,40,ads,1,0
+C00452,2026-04-23,Belarus,Gomel,28,ads,1,0
+C00453,2025-03-31,Armenia,Yerevan,46,ads,1,0
+C00454,2024-01-23,Georgia,Tbilisi,69,ads,1,0
+C00455,2025-06-28,Russia,Moscow,30,ads,1,0
+C00456,2025-05-21,Russia,Moscow,37,referral,1,0
+C00457,2024-05-15,Russia,Kazan,41,email,1,0
+C00458,2025-08-01,Russia,Saint Petersburg,60,ads,1,0
+C00459,2026-02-05,Georgia,Tbilisi,44,organic,1,1
+C00460,2024-04-06,Russia,Saint Petersburg,23,organic,1,0
+C00461,2025-10-21,Kazakhstan,Almaty,43,ads,1,0
+C00462,2024-05-07,Russia,Kazan,57,organic,1,0
+C00463,2025-11-13,Russia,Moscow,18,email,0,0
+C00464,2025-01-17,Russia,Moscow,60,ads,0,0
+C00465,2024-01-06,Belarus,Gomel,30,ads,1,0
+C00466,2026-05-31,Belarus,Minsk,45,referral,1,0
+C00467,2024-05-31,Russia,Kazan,69,organic,0,0
+C00468,2025-06-27,Russia,Moscow,51,referral,0,0
+C00469,2024-06-14,Kazakhstan,Astana,70,organic,0,0
+C00470,2026-04-30,Russia,Novosibirsk,49,ads,0,0
+C00471,2025-11-04,Georgia,Tbilisi,29,email,1,0
+C00472,2026-01-03,Russia,Saint Petersburg,54,referral,0,0
+C00473,2025-01-29,Russia,Saint Petersburg,50,referral,1,0
+C00474,2025-03-02,Russia,Kazan,34,ads,0,0
+C00475,2025-08-01,Russia,Kazan,22,referral,1,0
+C00476,2025-12-16,Russia,Moscow,52,ads,1,0
+C00477,2026-02-11,Russia,Kazan,48,ads,1,0
+C00478,2024-01-17,Georgia,Tbilisi,59,organic,1,0
+C00479,2025-08-28,Russia,Moscow,24,organic,0,0
+C00480,2024-04-09,Russia,Kazan,46,ads,1,0
+C00481,2024-09-19,Russia,Novosibirsk,61,organic,1,0
+C00482,2026-01-26,Russia,Kazan,65,referral,0,0
+C00483,2024-08-16,Russia,Novosibirsk,67,referral,1,0
+C00484,2025-12-27,Russia,Saint Petersburg,29,email,1,0
+C00485,2025-02-26,Belarus,Gomel,27,organic,1,0
+C00486,2024-07-31,Russia,Novosibirsk,48,email,1,0
+C00487,2024-10-31,Georgia,Tbilisi,42,organic,1,0
+C00488,2025-04-29,Russia,Novosibirsk,30,ads,1,0
+C00489,2025-11-28,Armenia,Yerevan,23,referral,0,0
+C00490,2025-07-06,Russia,Kazan,25,organic,0,0
+C00491,2026-05-01,Russia,Kazan,35,organic,0,0
+C00492,2026-03-02,Kazakhstan,Astana,57,organic,1,0
+C00493,2025-11-18,Belarus,Gomel,21,ads,1,0
+C00494,2025-07-04,Kazakhstan,Astana,23,referral,0,0
+C00495,2024-09-21,Russia,Saint Petersburg,32,organic,1,0
+C00496,2025-01-11,Belarus,Minsk,44,organic,0,1
+C00497,2024-04-18,Armenia,Yerevan,70,ads,1,0
+C00498,2024-12-07,Belarus,Minsk,41,organic,0,0
+C00499,2026-04-24,Russia,Moscow,20,referral,1,0
+C00500,2025-01-23,Belarus,Minsk,18,email,1,0
+C00501,2024-04-13,Belarus,Minsk,63,referral,1,0
+C00502,2025-08-17,Georgia,Tbilisi,41,referral,0,0
+C00503,2026-05-27,Russia,Moscow,22,ads,1,0
+C00504,2026-03-02,Russia,Novosibirsk,44,referral,1,1
+C00505,2024-09-06,Kazakhstan,Almaty,46,organic,0,0
+C00506,2025-02-17,Russia,Kazan,36,organic,1,0
+C00507,2025-04-29,Kazakhstan,Almaty,41,ads,0,0
+C00508,2024-08-14,Russia,Moscow,29,organic,0,0
+C00509,2024-09-02,Russia,Kazan,67,referral,1,0
+C00510,2024-08-03,Kazakhstan,Astana,59,ads,0,0
+C00511,2026-06-26,Russia,Novosibirsk,28,email,1,0
+C00512,2025-11-11,Russia,Novosibirsk,56,organic,1,0
+C00513,2026-02-05,Belarus,Gomel,27,ads,0,0
+C00514,2026-01-14,Kazakhstan,Astana,42,referral,0,0
+C00515,2026-05-24,Armenia,Yerevan,57,organic,1,0
+C00516,2024-04-06,Russia,Moscow,19,ads,1,0
+C00517,2026-03-15,Russia,Novosibirsk,56,ads,1,0
+C00518,2024-03-01,Georgia,Tbilisi,29,email,1,0
+C00519,2025-03-09,Russia,Kazan,55,referral,1,0
+C00520,2025-06-26,Russia,Saint Petersburg,44,organic,1,0
+C00521,2024-11-22,Russia,Saint Petersburg,19,ads,0,0
+C00522,2024-05-13,Russia,Kazan,58,ads,1,0
+C00523,2024-06-24,Armenia,Yerevan,31,organic,1,0
+C00524,2026-01-22,Kazakhstan,Almaty,68,ads,1,0
+C00525,2024-10-17,Kazakhstan,Astana,62,organic,0,0
+C00526,2024-10-10,Russia,Saint Petersburg,28,organic,1,0
+C00527,2026-04-22,Russia,Moscow,49,unknown,0,0
+C00528,2024-05-11,Russia,Saint Petersburg,37,organic,1,0
+C00529,2026-04-14,Russia,Novosibirsk,49,ads,0,0
+C00530,2026-04-19,Russia,Saint Petersburg,47,organic,0,0
+C00531,2025-06-29,Russia,Kazan,33,referral,1,0
+C00532,2024-05-30,Russia,Novosibirsk,52,organic,1,0
+C00533,2024-05-22,Russia,Moscow,31,referral,1,0
+C00534,2024-09-16,Kazakhstan,Astana,66,organic,1,0
+C00535,2025-06-10,Russia,Saint Petersburg,68,ads,1,0
+C00536,2024-05-20,Russia,Kazan,26,organic,0,0
+C00537,2025-02-19,Kazakhstan,Almaty,56,organic,1,0
+C00538,2024-04-15,Kazakhstan,Almaty,67,ads,1,0
+C00539,2025-05-07,Kazakhstan,Astana,24,referral,1,0
+C00540,2024-01-20,Russia,Novosibirsk,57,email,1,0
+C00541,2025-10-08,Kazakhstan,Astana,67,organic,0,0
+C00542,2024-02-20,Russia,Kazan,29,organic,1,0
+C00543,2024-06-26,Russia,Saint Petersburg,48,referral,0,0
+C00544,2024-06-08,Russia,Moscow,44,ads,1,1
+C00545,2026-01-27,Russia,Saint Petersburg,35,organic,1,0
+C00546,2024-02-18,Russia,Kazan,30,referral,1,0
+C00547,2025-01-26,Russia,Saint Petersburg,39,ads,1,0
+C00548,2025-06-23,Kazakhstan,Almaty,35,ads,1,0
+C00549,2025-04-15,Russia,Moscow,56,ads,1,0
+C00550,2025-09-12,Russia,Saint Petersburg,37,ads,1,0
+C00551,2026-01-02,Russia,Moscow,37,organic,1,0
+C00552,2024-12-24,Russia,Moscow,68,referral,1,0
+C00553,2026-01-25,Russia,Moscow,48,organic,0,0
+C00554,2024-10-17,Russia,Kazan,67,referral,1,0
+C00555,2026-06-16,Russia,Saint Petersburg,55,referral,1,0
+C00556,2025-04-05,Kazakhstan,Almaty,64,referral,1,0
+C00557,2025-11-02,Georgia,Tbilisi,28,unknown,0,0
+C00558,2026-03-09,Russia,Kazan,67,organic,0,0
+C00559,2025-12-23,Belarus,Minsk,68,ads,1,0
+C00560,2026-02-15,Armenia,Yerevan,20,ads,1,0
+C00561,2025-05-04,Georgia,Tbilisi,36,email,1,0
+C00562,2024-02-09,Belarus,Minsk,39,ads,1,0
+C00563,2025-03-25,Armenia,Yerevan,40,referral,1,0
+C00564,2024-06-14,Armenia,Yerevan,59,organic,0,0
+C00565,2026-03-21,Kazakhstan,Almaty,55,unknown,0,0
+C00566,2024-08-03,Russia,Saint Petersburg,29,organic,0,0
+C00567,2024-07-26,Russia,Novosibirsk,50,referral,1,0
+C00568,2024-08-15,Russia,Moscow,69,organic,1,0
+C00569,2025-08-09,Russia,Saint Petersburg,41,organic,1,0
+C00570,2025-06-04,Russia,Moscow,67,referral,1,0
+C00571,2026-05-15,Russia,Saint Petersburg,52,ads,1,0
+C00572,2025-01-14,Russia,Kazan,67,organic,1,0
+C00573,2024-09-14,Russia,Saint Petersburg,65,organic,1,0
+C00574,2024-02-14,Kazakhstan,Astana,18,ads,1,0
+C00575,2024-01-07,Russia,Novosibirsk,60,organic,1,0
+C00576,2024-12-06,Russia,Novosibirsk,44,organic,0,1
+C00577,2026-04-24,Kazakhstan,Astana,61,ads,1,0
+C00578,2025-04-22,Kazakhstan,Astana,60,organic,0,0
+C00579,2026-03-25,Georgia,Tbilisi,31,ads,0,0
+C00580,2024-04-02,Armenia,Yerevan,21,unknown,1,0
+C00581,2024-03-26,Armenia,Yerevan,40,organic,1,0
+C00582,2026-01-30,Russia,Novosibirsk,34,organic,0,0
+C00583,2024-04-07,Russia,Novosibirsk,47,organic,0,0
+C00584,2024-02-17,Russia,Saint Petersburg,22,organic,1,0
+C00585,2025-01-03,Belarus,Minsk,20,organic,0,0
+C00586,2026-04-23,Georgia,Tbilisi,41,email,0,0
+C00587,2025-09-20,Russia,Moscow,58,referral,1,0
+C00588,2024-03-31,Russia,Novosibirsk,34,ads,1,0
+C00589,2026-02-02,Russia,Kazan,35,ads,1,0
+C00590,2026-02-08,Russia,Saint Petersburg,26,ads,1,0
+C00591,2025-12-31,Russia,Saint Petersburg,32,referral,1,0
+C00592,2026-04-03,Russia,Saint Petersburg,33,organic,0,0
+C00593,2024-08-06,Georgia,Tbilisi,31,organic,1,0
+C00594,2026-06-12,Russia,Novosibirsk,36,organic,1,0
+C00595,2024-10-19,Kazakhstan,Astana,33,organic,1,0
+C00596,2026-01-01,Belarus,Gomel,54,organic,1,0
+C00597,2025-06-12,Russia,Saint Petersburg,35,referral,1,0
+C00598,2025-12-11,Russia,Saint Petersburg,58,email,0,0
+C00599,2025-07-26,Kazakhstan,Almaty,50,organic,1,0
+C00600,2025-08-08,Russia,Novosibirsk,51,ads,0,0
+C00601,2025-07-16,Armenia,Yerevan,48,ads,1,0
+C00602,2025-12-11,Russia,Kazan,66,ads,1,0
+C00603,2025-11-05,Belarus,Gomel,31,ads,1,0
+C00604,2024-05-02,Kazakhstan,Almaty,70,organic,1,0
+C00605,2026-01-23,Russia,Saint Petersburg,28,referral,1,0
+C00606,2025-05-03,Russia,Novosibirsk,25,email,1,0
+C00607,2024-10-21,Georgia,Tbilisi,61,ads,1,0
+C00608,2025-04-13,Russia,Saint Petersburg,65,ads,0,0
+C00609,2026-05-31,Russia,Kazan,22,ads,1,0
+C00610,2026-02-21,Russia,Moscow,49,organic,0,0
+C00611,2026-01-30,Russia,Saint Petersburg,45,organic,0,0
+C00612,2025-02-26,Kazakhstan,Astana,29,ads,0,0
+C00613,2025-12-16,Kazakhstan,Almaty,45,organic,1,0
+C00614,2024-12-17,Russia,Moscow,54,referral,0,0
+C00615,2025-09-17,Kazakhstan,Astana,48,ads,1,0
+C00616,2025-08-06,Russia,Saint Petersburg,44,ads,1,1
+C00617,2024-08-15,Russia,Saint Petersburg,64,organic,1,0
+C00618,2024-08-31,Russia,Kazan,29,email,1,0
+C00619,2024-02-25,Georgia,Tbilisi,51,organic,1,0
+C00620,2024-05-07,Russia,Moscow,34,organic,1,0
+C00621,2025-01-30,Russia,Moscow,69,organic,1,0
+C00622,2025-03-11,Russia,Moscow,31,ads,1,0
+C00623,2024-05-30,Kazakhstan,Almaty,64,email,1,0
+C00624,2025-01-15,Russia,Moscow,51,organic,1,0
+C00625,2025-07-05,Russia,Kazan,29,email,1,0
+C00626,2024-07-31,Kazakhstan,Almaty,58,organic,1,0
+C00627,2024-11-04,Russia,Moscow,44,ads,0,1
+C00628,2024-12-01,Russia,Moscow,31,organic,0,0
+C00629,2025-04-05,Russia,Saint Petersburg,36,ads,0,0
+C00630,2024-11-30,Russia,Novosibirsk,54,ads,0,0
+C00631,2025-11-03,Russia,Saint Petersburg,38,ads,0,0
+C00632,2024-10-25,Armenia,Yerevan,48,organic,1,0
+C00633,2025-01-30,Belarus,Minsk,47,referral,1,0
+C00634,2024-12-12,Belarus,Minsk,28,email,1,0
+C00635,2024-06-15,Georgia,Tbilisi,30,ads,1,0
+C00636,2025-09-17,Russia,Saint Petersburg,34,ads,1,0
+C00637,2024-08-02,Russia,Moscow,29,referral,0,0
+C00638,2024-09-27,Armenia,Yerevan,66,organic,1,0
+C00639,2025-12-23,Russia,Novosibirsk,38,referral,1,0
+C00640,2026-05-15,Kazakhstan,Astana,39,organic,1,0
+C00641,2025-09-03,Kazakhstan,Almaty,53,referral,1,0
+C00642,2026-04-15,Russia,Novosibirsk,59,organic,1,0
+C00643,2026-02-18,Russia,Saint Petersburg,54,unknown,0,0
+C00644,2025-03-14,Russia,Moscow,47,ads,1,0
+C00645,2025-12-03,Russia,Novosibirsk,69,ads,0,0
+C00646,2024-10-26,Russia,Novosibirsk,65,referral,0,0
+C00647,2025-02-23,Russia,Saint Petersburg,28,email,0,0
+C00648,2025-05-03,Kazakhstan,Astana,26,organic,0,0
+C00649,2026-05-25,Armenia,Yerevan,38,organic,1,0
+C00650,2026-02-12,Kazakhstan,Almaty,62,unknown,1,0
+C00651,2025-03-22,Russia,Kazan,69,ads,0,0
+C00652,2025-08-18,Russia,Kazan,55,ads,1,0
+C00653,2024-07-03,Russia,Kazan,54,referral,1,0
+C00654,2026-01-03,Russia,Kazan,30,referral,1,0
+C00655,2025-05-19,Georgia,Tbilisi,49,organic,1,0
+C00656,2025-04-30,Russia,Kazan,27,ads,1,0
+C00657,2025-11-29,Russia,Kazan,46,ads,1,0
+C00658,2025-07-31,Kazakhstan,Astana,28,ads,1,0
+C00659,2024-03-07,Russia,Moscow,22,organic,1,0
+C00660,2024-09-19,Russia,Saint Petersburg,69,ads,1,0
+C00661,2024-06-10,Russia,Saint Petersburg,65,ads,1,0
+C00662,2025-11-01,Belarus,Gomel,54,organic,0,0
+C00663,2024-02-02,Kazakhstan,Almaty,51,referral,1,0
+C00664,2024-07-03,Russia,Saint Petersburg,30,organic,1,0
+C00665,2025-06-28,Armenia,Yerevan,48,ads,1,0
+C00666,2025-09-25,Armenia,Yerevan,57,ads,1,0
+C00667,2025-04-04,Kazakhstan,Astana,46,referral,1,0
+C00668,2026-02-23,Russia,Moscow,32,organic,0,0
+C00669,2026-04-18,Russia,Kazan,38,organic,1,0
+C00670,2024-04-30,Armenia,Yerevan,62,organic,1,0
+C00671,2026-05-18,Russia,Kazan,31,ads,1,0
+C00672,2025-07-14,Belarus,Minsk,68,organic,1,0
+C00673,2025-08-03,Kazakhstan,Almaty,58,referral,0,0
+C00674,2024-03-27,Russia,Moscow,65,organic,1,0
+C00675,2025-07-21,Kazakhstan,Almaty,45,organic,1,0
+C00676,2025-10-23,Georgia,Tbilisi,29,ads,0,0
+C00677,2025-06-13,Kazakhstan,Almaty,44,referral,1,1
+C00678,2024-03-18,Russia,Moscow,46,referral,0,0
+C00679,2025-04-22,Armenia,Yerevan,39,referral,1,0
+C00680,2026-05-03,Russia,Moscow,24,ads,1,0
+C00681,2025-10-21,Kazakhstan,Almaty,67,referral,0,0
+C00682,2024-05-05,Kazakhstan,Astana,69,unknown,1,0
+C00683,2026-05-25,Kazakhstan,Astana,37,organic,1,0
+C00684,2026-05-24,Russia,Moscow,53,ads,1,0
+C00685,2024-06-03,Russia,Kazan,39,referral,1,0
+C00686,2025-12-31,Russia,Moscow,44,organic,0,0
+C00687,2025-01-05,Russia,Saint Petersburg,51,ads,0,0
+C00688,2025-06-25,Russia,Moscow,40,ads,1,0
+C00689,2025-02-10,Russia,Moscow,60,ads,0,0
+C00690,2025-12-14,Russia,Moscow,28,organic,0,0
+C00691,2026-06-27,Kazakhstan,Almaty,53,ads,1,0
+C00692,2025-12-26,Armenia,Yerevan,70,referral,0,0
+C00693,2026-04-29,Russia,Saint Petersburg,63,organic,1,0
+C00694,2026-05-12,Kazakhstan,Almaty,20,ads,1,0
+C00695,2024-03-23,Belarus,Gomel,24,organic,1,0
+C00696,2024-08-19,Russia,Kazan,51,organic,0,0
+C00697,2025-10-20,Russia,Kazan,67,email,1,0
+C00698,2025-06-22,Kazakhstan,Astana,62,ads,1,0
+C00699,2024-02-15,Georgia,Tbilisi,65,ads,1,0
+C00700,2024-03-27,Kazakhstan,Astana,25,organic,1,0
+C00701,2025-04-19,Armenia,Yerevan,45,email,1,0
+C00702,2025-07-15,Georgia,Tbilisi,56,organic,1,0
+C00703,2024-06-01,Russia,Saint Petersburg,51,referral,1,0
+C00704,2024-06-05,Belarus,Minsk,59,organic,1,0
+C00705,2024-04-27,Russia,Saint Petersburg,29,organic,0,0
+C00706,2025-05-30,Georgia,Tbilisi,42,ads,1,0
+C00707,2024-01-08,Russia,Moscow,41,organic,1,0
+C00708,2025-06-06,Russia,Novosibirsk,67,ads,0,0
+C00709,2025-03-10,Armenia,Yerevan,28,organic,1,0
+C00710,2025-02-28,Russia,Saint Petersburg,44,referral,1,1
+C00711,2025-09-11,Kazakhstan,Astana,19,referral,0,0
+C00712,2025-04-21,Russia,Novosibirsk,26,referral,1,0
+C00713,2025-10-25,Georgia,Tbilisi,69,organic,1,0
+C00714,2025-11-27,Armenia,Yerevan,62,referral,1,0
+C00715,2026-04-19,Russia,Saint Petersburg,31,email,1,0
+C00716,2025-12-29,Kazakhstan,Astana,55,organic,1,0
+C00717,2025-04-17,Russia,Saint Petersburg,49,organic,1,0
+C00718,2025-03-24,Belarus,Minsk,66,referral,0,0
+C00719,2024-08-02,Belarus,Minsk,33,organic,0,0
+C00720,2025-06-30,Kazakhstan,Almaty,70,ads,1,0
+C00721,2024-05-06,Russia,Novosibirsk,37,referral,1,0
+C00722,2026-04-29,Russia,Saint Petersburg,55,organic,1,0
+C00723,2026-02-09,Kazakhstan,Almaty,39,ads,1,0
+C00724,2024-04-19,Russia,Saint Petersburg,53,ads,1,0
+C00725,2025-12-17,Russia,Saint Petersburg,35,organic,1,0
+C00726,2024-04-16,Russia,Novosibirsk,62,referral,1,0
+C00727,2025-10-19,Russia,Novosibirsk,51,organic,1,0
+C00728,2024-03-20,Armenia,Yerevan,33,ads,1,0
+C00729,2025-03-21,Russia,Moscow,68,referral,1,0
+C00730,2025-08-22,Russia,Kazan,55,organic,0,0
+C00731,2025-10-26,Georgia,Tbilisi,40,referral,1,0
+C00732,2025-01-16,Russia,Saint Petersburg,25,organic,0,0
+C00733,2026-04-20,Kazakhstan,Almaty,69,ads,1,0
+C00734,2025-12-07,Russia,Novosibirsk,58,organic,1,0
+C00735,2024-07-08,Armenia,Yerevan,53,ads,1,0
+C00736,2025-09-04,Kazakhstan,Almaty,62,referral,1,0
+C00737,2025-10-28,Armenia,Yerevan,50,referral,1,0
+C00738,2024-10-31,Russia,Moscow,30,email,1,0
+C00739,2025-11-04,Russia,Moscow,30,ads,1,0
+C00740,2026-03-30,Kazakhstan,Almaty,22,referral,1,0
+C00741,2026-01-15,Russia,Kazan,21,unknown,1,0
+C00742,2025-11-26,Russia,Saint Petersburg,56,email,0,0
+C00743,2025-08-01,Russia,Moscow,63,ads,0,0
+C00744,2024-09-03,Georgia,Tbilisi,26,referral,0,0
+C00745,2025-12-26,Kazakhstan,Almaty,48,organic,1,0
+C00746,2024-11-28,Belarus,Gomel,24,ads,0,0
+C00747,2025-04-30,Kazakhstan,Astana,39,referral,1,0
+C00748,2024-10-13,Russia,Novosibirsk,59,organic,1,0
+C00749,2024-10-12,Russia,Kazan,61,organic,1,0
+C00750,2024-05-23,Russia,Kazan,68,email,1,0
+C00751,2026-05-26,Belarus,Gomel,34,ads,1,0
+C00752,2024-05-14,Russia,Kazan,68,organic,1,0
+C00753,2024-03-19,Armenia,Yerevan,59,organic,1,0
+C00754,2026-05-03,Kazakhstan,Almaty,35,ads,0,0
+C00755,2025-05-21,Russia,Saint Petersburg,35,unknown,1,0
+C00756,2025-02-03,Russia,Saint Petersburg,23,email,0,0
+C00757,2025-11-03,Russia,Moscow,66,email,1,0
+C00758,2024-12-15,Georgia,Tbilisi,28,ads,1,0
+C00759,2024-04-26,Armenia,Yerevan,32,ads,0,0
+C00760,2025-10-27,Armenia,Yerevan,39,organic,0,0
+C00761,2024-06-09,Russia,Moscow,25,referral,0,0
+C00762,2025-05-19,Russia,Kazan,60,organic,1,0
+C00763,2026-05-15,Russia,Novosibirsk,54,organic,0,0
+C00764,2026-05-03,Russia,Moscow,26,unknown,0,0
+C00765,2024-11-25,Russia,Moscow,26,referral,0,0
+C00766,2025-12-12,Russia,Moscow,19,organic,1,0
+C00767,2025-07-12,Georgia,Tbilisi,68,ads,0,0
+C00768,2025-03-13,Russia,Novosibirsk,41,ads,1,0
+C00769,2024-05-07,Russia,Saint Petersburg,52,organic,1,0
+C00770,2024-12-09,Kazakhstan,Almaty,25,organic,0,0
+C00771,2025-08-17,Russia,Moscow,44,organic,1,1
+C00772,2026-06-18,Kazakhstan,Astana,46,ads,0,0
+C00773,2024-01-05,Belarus,Minsk,29,ads,0,0
+C00774,2025-10-16,Armenia,Yerevan,50,ads,0,0
+C00775,2026-02-10,Belarus,Gomel,66,organic,1,0
+C00776,2026-05-17,Russia,Kazan,34,email,1,0
+C00777,2025-01-21,Kazakhstan,Almaty,50,unknown,1,0
+C00778,2024-04-18,Russia,Novosibirsk,66,referral,1,0
+C00779,2024-09-04,Russia,Kazan,65,unknown,1,0
+C00780,2026-02-14,Russia,Kazan,18,ads,1,0
+C00781,2026-03-11,Russia,Moscow,23,referral,0,0
+C00782,2025-08-04,Kazakhstan,Astana,70,organic,1,0
+C00783,2024-04-21,Russia,Novosibirsk,67,organic,1,0
+C00784,2024-04-21,Russia,Saint Petersburg,35,organic,1,0
+C00785,2025-03-12,Russia,Moscow,45,organic,1,0
+C00786,2025-06-20,Kazakhstan,Astana,48,ads,1,0
+C00787,2024-01-30,Russia,Novosibirsk,53,organic,0,0
+C00788,2025-09-17,Belarus,Gomel,57,organic,0,0
+C00789,2025-05-11,Armenia,Yerevan,37,ads,1,0
+C00790,2024-01-12,Russia,Kazan,44,organic,1,1
+C00791,2024-03-28,Kazakhstan,Almaty,21,organic,0,0
+C00792,2025-02-18,Russia,Moscow,19,ads,1,0
+C00793,2025-10-20,Russia,Novosibirsk,68,organic,1,0
+C00795,2025-01-28,Armenia,Yerevan,70,unknown,1,0
+C00796,2024-09-26,Russia,Saint Petersburg,33,organic,0,0
+C00797,2026-06-02,Russia,Kazan,37,ads,1,0
+C00798,2025-02-22,Russia,Moscow,19,organic,1,0
+C00799,2024-10-14,Russia,Moscow,68,organic,1,0
+C00800,2025-02-07,Belarus,Minsk,37,email,0,0
+C00801,2024-01-12,Belarus,Minsk,26,email,1,0
+C00802,2024-10-02,Belarus,Minsk,43,unknown,1,0
+C00803,2025-04-15,Russia,Moscow,26,organic,1,0
+C00804,2026-04-17,Belarus,Minsk,59,ads,1,0
+C00805,2025-11-04,Belarus,Minsk,21,referral,1,0
+C00806,2025-12-13,Belarus,Gomel,44,referral,1,0
+C00807,2025-05-11,Russia,Kazan,38,organic,1,0
+C00808,2024-04-10,Russia,Novosibirsk,19,organic,1,0
+C00809,2024-12-22,Russia,Novosibirsk,20,ads,0,0
+C00810,2026-06-28,Russia,Saint Petersburg,45,referral,1,0
+C00811,2024-02-10,Russia,Novosibirsk,38,referral,1,0
+C00812,2026-03-12,Russia,Kazan,24,organic,1,0
+C00813,2025-09-16,Kazakhstan,Almaty,25,ads,0,0
+C00814,2024-09-15,Russia,Saint Petersburg,60,organic,1,0
+C00815,2025-12-10,Kazakhstan,Astana,56,ads,1,0
+C00816,2026-02-02,Russia,Novosibirsk,50,email,1,0
+C00817,2024-02-09,Kazakhstan,Almaty,62,ads,1,0
+C00818,2024-04-07,Russia,Moscow,21,organic,1,0
+C00819,2025-08-30,Russia,Moscow,54,ads,1,0
+C00820,2026-06-30,Belarus,Minsk,57,ads,1,0
+C00821,2024-01-22,Georgia,Tbilisi,28,referral,1,0
+C00822,2025-08-30,Russia,Kazan,46,organic,1,0
+C00823,2024-05-04,Russia,Kazan,58,referral,1,0
+C00824,2025-08-15,Belarus,Minsk,49,organic,1,0
+C00825,2025-07-22,Kazakhstan,Astana,31,organic,1,0
+C00826,2024-03-23,Russia,Novosibirsk,53,organic,1,0
+C00827,2025-09-12,Russia,Novosibirsk,58,organic,1,0
+C00828,2026-03-29,Russia,Moscow,18,organic,1,0
+C00829,2026-02-26,Armenia,Yerevan,48,ads,0,0
+C00830,2024-01-27,Russia,Kazan,44,organic,0,0
+C00831,2024-08-12,Russia,Novosibirsk,37,organic,1,0
+C00832,2024-08-07,Georgia,Tbilisi,20,organic,1,0
+C00833,2025-02-17,Russia,Novosibirsk,22,organic,1,0
+C00834,2024-05-10,Russia,Saint Petersburg,57,referral,1,0
+C00835,2026-02-18,Russia,Saint Petersburg,61,email,1,0
+C00836,2025-12-09,Russia,Novosibirsk,44,organic,1,1
+C00837,2026-01-07,Russia,Moscow,67,referral,1,0
+C00838,2024-06-29,Russia,Kazan,67,referral,1,0
+C00839,2024-01-14,Kazakhstan,Almaty,53,email,1,0
+C00840,2026-04-10,Kazakhstan,Astana,44,organic,1,1
+C00841,2024-09-20,Russia,Moscow,69,organic,0,0
+C00842,2025-08-21,Russia,Moscow,50,ads,1,0
+C00843,2026-04-09,Russia,Saint Petersburg,67,referral,1,0
+C00844,2024-02-02,Georgia,Tbilisi,69,referral,1,0
+C00845,2024-01-05,Russia,Moscow,28,ads,0,0
+C00846,2024-01-05,Belarus,Minsk,53,organic,1,0
+C00847,2024-05-22,Russia,Saint Petersburg,56,referral,0,0
+C00848,2024-02-17,Belarus,Minsk,61,referral,1,0
+C00849,2026-01-17,Russia,Kazan,36,ads,1,0
+C00850,2025-07-06,Kazakhstan,Astana,63,ads,1,0
+C00851,2026-06-12,Russia,Novosibirsk,43,ads,1,0
+C00852,2025-12-31,Armenia,Yerevan,38,ads,1,0
+C00853,2026-05-28,Russia,Saint Petersburg,26,ads,1,0
+C00854,2024-08-05,Kazakhstan,Astana,35,referral,1,0
+C00855,2024-09-19,Kazakhstan,Astana,69,email,1,0
+C00856,2026-02-13,Georgia,Tbilisi,55,ads,1,0
+C00857,2024-08-11,Russia,Moscow,56,organic,0,0
+C00858,2024-02-22,Russia,Kazan,65,ads,1,0
+C00859,2025-09-02,Russia,Novosibirsk,32,organic,0,0
+C00860,2025-12-31,Russia,Saint Petersburg,53,organic,1,0
+C00861,2026-06-01,Russia,Moscow,37,organic,1,0
+C00862,2026-04-26,Georgia,Tbilisi,62,ads,0,0
+C00863,2024-04-19,Georgia,Tbilisi,40,organic,1,0
+C00864,2025-12-05,Russia,Saint Petersburg,63,organic,1,0
+C00865,2026-02-10,Belarus,Minsk,57,referral,1,0
+C00866,2025-09-28,Armenia,Yerevan,58,organic,0,0
+C00867,2026-01-17,Georgia,Tbilisi,67,ads,0,0
+C00868,2026-02-03,Russia,Kazan,59,email,1,0
+C00869,2025-02-11,Russia,Novosibirsk,44,ads,1,1
+C00870,2024-02-06,Kazakhstan,Astana,45,organic,1,0
+C00871,2025-02-20,Russia,Moscow,43,organic,1,0
+C00872,2024-07-03,Russia,Saint Petersburg,21,ads,1,0
+C00873,2024-04-13,Georgia,Tbilisi,49,ads,1,0
+C00874,2024-04-23,Georgia,Tbilisi,44,organic,1,1
+C00875,2025-09-28,Armenia,Yerevan,38,ads,0,0
+C00876,2025-04-05,Kazakhstan,Astana,23,ads,1,0
+C00877,2025-05-07,Russia,Saint Petersburg,44,organic,1,0
+C00878,2025-11-10,Russia,Kazan,48,ads,1,0
+C00879,2025-05-15,Russia,Kazan,23,organic,0,0
+C00880,2025-07-28,Russia,Saint Petersburg,51,organic,0,0
+C00881,2024-03-19,Russia,Kazan,26,referral,1,0
+C00882,2026-02-15,Belarus,Minsk,25,organic,1,0
+C00883,2025-02-13,Russia,Moscow,39,ads,0,0
+C00884,2024-05-21,Kazakhstan,Almaty,38,ads,0,0
+C00885,2026-01-11,Russia,Saint Petersburg,66,organic,1,0
+C00886,2025-10-31,Russia,Moscow,21,email,1,0
+C00887,2024-02-18,Russia,Novosibirsk,36,organic,1,0
+C00888,2024-06-25,Russia,Kazan,56,organic,0,0
+C00889,2024-01-15,Armenia,Yerevan,31,email,1,0
+C00890,2024-09-03,Russia,Moscow,70,referral,1,0
+C00891,2024-04-01,Russia,Novosibirsk,44,unknown,1,1
+C00892,2025-10-09,Kazakhstan,Astana,68,organic,1,0
+C00893,2025-04-21,Russia,Moscow,68,organic,1,0
+C00894,2026-06-12,Russia,Moscow,23,ads,1,0
+C00895,2025-11-14,Russia,Saint Petersburg,42,organic,1,0
+C00896,2025-07-11,Russia,Kazan,57,organic,1,0
+C00897,2025-04-09,Belarus,Gomel,18,referral,1,0
+C00898,2024-02-19,Russia,Saint Petersburg,41,unknown,1,0
+C00899,2024-03-05,Russia,Kazan,54,organic,1,0
+C00900,2025-07-16,Russia,Moscow,60,organic,1,0
+C00901,2024-01-04,Russia,Kazan,39,ads,1,0
+C00902,2024-02-08,Russia,Novosibirsk,63,ads,0,0
+C00903,2024-07-18,Kazakhstan,Astana,53,referral,1,0
+C00904,2026-03-17,Russia,Saint Petersburg,20,organic,1,0
+C00905,2025-02-22,Belarus,Minsk,32,unknown,1,0
+C00906,2025-10-09,Russia,Novosibirsk,67,ads,0,0
+C00907,2025-01-10,Russia,Moscow,18,ads,1,0
+C00908,2024-06-06,Russia,Saint Petersburg,44,ads,1,1
+C00909,2024-12-04,Kazakhstan,Almaty,36,email,1,0
+C00910,2024-03-24,Armenia,Yerevan,70,ads,1,0
+C00911,2025-12-03,Russia,Novosibirsk,55,ads,1,0
+C00912,2024-06-16,Russia,Saint Petersburg,25,email,1,0
+C00913,2024-12-09,Armenia,Yerevan,38,organic,1,0
+C00914,2026-06-12,Russia,Novosibirsk,67,email,1,0
+C00915,2025-06-23,Russia,Kazan,29,ads,1,0
+C00916,2025-02-22,Russia,Kazan,44,ads,1,1
+C00917,2025-05-10,Belarus,Gomel,42,email,0,0
+C00918,2025-12-16,Kazakhstan,Almaty,58,ads,0,0
+C00919,2024-08-20,Russia,Kazan,57,ads,1,0
+C00920,2025-08-03,Georgia,Tbilisi,62,organic,0,0
+C00921,2026-03-06,Russia,Kazan,24,ads,1,0
+C00922,2025-06-06,Russia,Novosibirsk,42,ads,1,0
+C00923,2025-02-11,Russia,Kazan,54,organic,0,0
+C00924,2024-05-12,Russia,Novosibirsk,40,referral,0,0
+C00925,2024-08-14,Russia,Novosibirsk,53,ads,1,0
+C00926,2026-05-12,Russia,Kazan,51,ads,1,0
+C00927,2025-05-08,Russia,Saint Petersburg,37,organic,1,0
+C00928,2024-10-01,Kazakhstan,Almaty,23,ads,1,0
+C00929,2025-01-16,Russia,Saint Petersburg,69,organic,0,0
+C00930,2025-06-11,Russia,Novosibirsk,61,organic,0,0
+C00931,2025-05-05,Belarus,Minsk,65,ads,0,0
+C00932,2025-09-30,Belarus,Minsk,33,organic,1,0
+C00933,2024-08-22,Kazakhstan,Astana,34,organic,1,0
+C00934,2025-08-15,Kazakhstan,Almaty,35,ads,1,0
+C00935,2025-02-07,Kazakhstan,Astana,19,organic,0,0
+C00936,2026-05-07,Russia,Kazan,26,email,1,0
+C00937,2024-05-24,Russia,Moscow,34,email,1,0
+C00938,2024-05-15,Belarus,Minsk,70,ads,0,0
+C00939,2025-02-25,Russia,Kazan,28,email,1,0
+C00940,2025-04-08,Russia,Novosibirsk,44,referral,0,0
+C00941,2025-09-22,Russia,Novosibirsk,47,organic,1,0
+C00942,2025-01-03,Russia,Novosibirsk,37,referral,1,0
+C00943,2026-04-13,Russia,Moscow,66,organic,1,0
+C00944,2025-03-08,Russia,Kazan,22,ads,0,0
+C00945,2024-04-27,Kazakhstan,Almaty,64,ads,1,0
+C00946,2024-04-18,Georgia,Tbilisi,57,organic,1,0
+C00947,2026-06-06,Russia,Moscow,44,organic,1,1
+C00948,2024-05-02,Georgia,Tbilisi,58,email,0,0
+C00949,2026-05-14,Russia,Kazan,40,organic,1,0
+C00950,2024-09-10,Armenia,Yerevan,69,organic,1,0
+C00951,2024-03-26,Georgia,Tbilisi,44,organic,1,1
+C00952,2024-10-04,Russia,Saint Petersburg,19,ads,1,0
+C00953,2025-07-14,Kazakhstan,Astana,46,referral,0,0
+C00954,2025-01-25,Georgia,Tbilisi,67,referral,1,0
+C00955,2025-12-17,Armenia,Yerevan,21,ads,1,0
+C00956,2025-07-11,Georgia,Tbilisi,59,organic,1,0
+C00957,2024-12-31,Russia,Novosibirsk,67,organic,1,0
+C00958,2025-08-01,Russia,Moscow,43,ads,1,0
+C00959,2026-06-04,Kazakhstan,Astana,63,referral,1,0
+C00960,2025-01-10,Belarus,Gomel,58,referral,1,0
+C00961,2024-05-19,Belarus,Minsk,29,ads,1,0
+C00962,2025-01-07,Russia,Kazan,63,ads,1,0
+C00963,2026-02-05,Russia,Saint Petersburg,55,ads,0,0
+C00964,2024-07-17,Russia,Novosibirsk,18,ads,1,0
+C00965,2026-05-15,Kazakhstan,Almaty,48,ads,1,0
+C00966,2025-06-20,Russia,Novosibirsk,52,ads,1,0
+C00967,2025-07-02,Kazakhstan,Astana,60,ads,1,0
+C00968,2024-10-16,Kazakhstan,Astana,58,email,1,0
+C00969,2026-04-19,Russia,Saint Petersburg,43,ads,1,0
+C00970,2024-02-02,Russia,Kazan,33,organic,1,0
+C00971,2024-09-29,Russia,Saint Petersburg,44,organic,1,1
+C00972,2025-01-16,Georgia,Tbilisi,44,ads,0,1
+C00973,2025-03-11,Kazakhstan,Almaty,51,ads,0,0
+C00974,2025-03-08,Russia,Novosibirsk,68,ads,1,0
+C00975,2024-05-14,Russia,Kazan,22,referral,1,0
+C00976,2024-07-24,Russia,Kazan,55,organic,1,0
+C00977,2024-03-27,Russia,Moscow,48,ads,1,0
+C00978,2025-06-06,Georgia,Tbilisi,27,referral,1,0
+C00979,2024-11-15,Kazakhstan,Astana,29,ads,1,0
+C00980,2025-05-30,Russia,Kazan,33,ads,1,0
+C00981,2025-06-21,Armenia,Yerevan,54,unknown,1,0
+C00982,2025-10-02,Russia,Novosibirsk,33,ads,0,0
+C00983,2025-05-13,Armenia,Yerevan,61,referral,0,0
+C00984,2025-08-13,Russia,Moscow,37,email,0,0
+C00985,2025-06-19,Belarus,Gomel,23,ads,0,0
+C00986,2025-08-18,Georgia,Tbilisi,23,organic,0,0
+C00987,2025-07-16,Russia,Kazan,39,ads,1,0
+C00988,2024-10-15,Belarus,Gomel,39,referral,1,0
+C00989,2024-08-12,Georgia,Tbilisi,56,organic,1,0
+C00990,2025-12-19,Russia,Moscow,44,referral,1,1
+C00991,2024-11-08,Russia,Saint Petersburg,26,organic,1,0
+C00992,2025-05-15,Belarus,Minsk,29,organic,1,0
+C00993,2024-06-28,Russia,Kazan,48,organic,1,0
+C00994,2025-01-28,Russia,Moscow,35,organic,0,0
+C00995,2025-04-28,Russia,Saint Petersburg,53,referral,1,0
+C00996,2025-07-24,Kazakhstan,Astana,66,ads,1,0
+C00997,2025-04-25,Russia,Moscow,36,organic,1,0
+C00998,2024-11-24,Russia,Novosibirsk,47,ads,1,0
+C00999,2026-05-27,Kazakhstan,Astana,62,ads,1,0
+C01000,2025-04-12,Russia,Moscow,29,organic,1,0
+C01001,2026-01-07,Kazakhstan,Almaty,45,organic,1,0
+C01002,2025-11-02,Russia,Novosibirsk,34,ads,1,0
+C01003,2025-05-24,Georgia,Tbilisi,51,organic,0,0
+C01004,2026-03-19,Belarus,Minsk,44,referral,0,1
+C01005,2024-04-26,Russia,Novosibirsk,25,organic,0,0
+C01006,2026-04-20,Armenia,Yerevan,27,referral,1,0
+C01007,2026-02-14,Russia,Saint Petersburg,19,referral,1,0
+C01008,2025-04-04,Russia,Saint Petersburg,18,organic,1,0
+C01009,2025-10-30,Russia,Saint Petersburg,20,organic,0,0
+C01010,2025-04-19,Belarus,Gomel,55,email,1,0
+C01011,2024-09-02,Russia,Moscow,65,ads,0,0
+C01012,2025-12-30,Russia,Saint Petersburg,39,ads,1,0
+C01013,2024-08-12,Russia,Saint Petersburg,64,organic,1,0
+C01014,2024-10-13,Russia,Moscow,56,organic,1,0
+C01015,2025-04-18,Russia,Saint Petersburg,60,ads,1,0
+C01016,2026-02-02,Russia,Kazan,57,referral,1,0
+C01017,2024-12-16,Russia,Kazan,28,organic,1,0
+C01018,2025-03-26,Russia,Moscow,45,referral,1,0
+C01019,2024-02-07,Belarus,Gomel,45,ads,1,0
+C01020,2024-04-15,Russia,Novosibirsk,52,organic,1,0
+C01021,2024-02-21,Belarus,Gomel,44,organic,1,1
+C01022,2024-03-06,Russia,Novosibirsk,23,organic,1,0
+C01023,2026-03-03,Russia,Saint Petersburg,53,ads,0,0
+C01024,2026-02-06,Russia,Novosibirsk,62,ads,0,0
+C01026,2024-02-20,Russia,Kazan,39,organic,1,0
+C01027,2024-03-11,Kazakhstan,Almaty,65,ads,1,0
+C01028,2024-09-12,Russia,Kazan,19,ads,0,0
+C01029,2025-05-30,Russia,Novosibirsk,26,ads,1,0
+C01030,2024-10-31,Russia,Novosibirsk,60,ads,1,0
+C01031,2025-03-20,Russia,Saint Petersburg,27,unknown,1,0
+C01032,2024-06-06,Russia,Moscow,55,ads,0,0
+C01033,2025-10-28,Russia,Kazan,65,ads,0,0
+C01034,2024-10-13,Russia,Moscow,44,ads,1,0
+C01035,2024-03-01,Russia,Moscow,43,organic,1,0
+C01036,2025-11-08,Kazakhstan,Astana,40,ads,1,0
+C01037,2026-04-03,Georgia,Tbilisi,37,ads,1,0
+C01038,2024-01-14,Russia,Novosibirsk,38,organic,1,0
+C01039,2025-02-02,Belarus,Minsk,47,referral,1,0
+C01040,2026-01-24,Kazakhstan,Almaty,65,referral,1,0
+C01041,2025-10-06,Russia,Saint Petersburg,70,organic,1,0
+C01042,2026-02-20,Kazakhstan,Almaty,63,ads,0,0
+C01043,2025-01-13,Belarus,Minsk,44,ads,1,1
+C01044,2024-12-05,Georgia,Tbilisi,34,email,0,0
+C01045,2025-10-08,Georgia,Tbilisi,58,organic,1,0
+C01046,2024-05-20,Russia,Kazan,46,organic,0,0
+C01047,2024-08-06,Russia,Kazan,44,ads,1,1
+C01048,2025-07-01,Russia,Saint Petersburg,34,organic,1,0
+C01049,2025-09-01,Russia,Saint Petersburg,24,ads,0,0
+C01050,2024-04-19,Russia,Novosibirsk,35,ads,0,0
+C01051,2025-04-08,Georgia,Tbilisi,40,organic,1,0
+C01052,2024-11-28,Russia,Moscow,40,unknown,1,0
+C01053,2025-04-02,Russia,Moscow,47,referral,1,0
+C01054,2026-05-24,Kazakhstan,Almaty,32,referral,1,0
+C01055,2024-03-10,Russia,Novosibirsk,28,ads,0,0
+C01056,2026-06-26,Russia,Saint Petersburg,65,organic,1,0
+C01057,2025-02-14,Georgia,Tbilisi,39,organic,1,0
+C01058,2025-12-05,Russia,Moscow,31,referral,1,0
+C01059,2025-01-22,Russia,Novosibirsk,51,referral,1,0
+C01060,2024-10-10,Russia,Moscow,46,ads,1,0
+C01061,2025-12-03,Georgia,Tbilisi,48,referral,1,0
+C01062,2025-09-19,Russia,Saint Petersburg,29,organic,1,0
+C01063,2024-05-11,Russia,Moscow,56,ads,1,0
+C01064,2025-10-05,Russia,Kazan,28,organic,1,0
+C01065,2025-11-17,Russia,Kazan,62,organic,1,0
+C01066,2024-12-19,Georgia,Tbilisi,40,ads,0,0
+C01067,2026-04-24,Russia,Novosibirsk,39,ads,1,0
+C01068,2025-08-07,Georgia,Tbilisi,38,email,1,0
+C01069,2024-10-31,Russia,Saint Petersburg,40,organic,1,0
+C01070,2024-01-10,Russia,Saint Petersburg,53,referral,1,0
+C01071,2025-09-07,Armenia,Yerevan,44,referral,1,0
+C01072,2024-07-09,Russia,Novosibirsk,24,ads,1,0
+C01073,2025-11-20,Russia,Novosibirsk,48,email,1,0
+C01074,2025-04-23,Armenia,Yerevan,32,ads,1,0
+C01075,2025-03-01,Russia,Moscow,23,ads,1,0
+C01076,2024-05-29,Russia,Kazan,62,organic,1,0
+C01077,2025-10-10,Georgia,Tbilisi,34,organic,1,0
+C01078,2024-05-31,Russia,Novosibirsk,49,referral,1,0
+C01079,2025-01-15,Russia,Kazan,27,ads,0,0
+C01080,2026-02-01,Russia,Kazan,35,organic,1,0
+C01081,2026-04-19,Russia,Moscow,38,organic,1,0
+C01082,2026-06-21,Russia,Moscow,44,ads,1,1
+C01083,2026-05-23,Belarus,Minsk,69,referral,1,0
+C01084,2025-05-22,Russia,Moscow,34,organic,1,0
+C01085,2024-07-01,Belarus,Gomel,48,referral,1,0
+C01086,2026-02-04,Russia,Kazan,47,ads,1,0
+C01087,2026-01-01,Russia,Novosibirsk,40,referral,0,0
+C01088,2026-06-22,Russia,Saint Petersburg,49,organic,1,0
+C01089,2025-08-16,Kazakhstan,Astana,47,ads,1,0
+C01090,2024-05-09,Russia,Moscow,22,organic,1,0
+C01091,2025-04-03,Russia,Novosibirsk,53,ads,1,0
+C01092,2025-02-12,Armenia,Yerevan,24,referral,1,0
+C01093,2026-02-07,Russia,Moscow,41,ads,1,0
+C01094,2024-12-24,Russia,Moscow,37,organic,1,0
+C01095,2024-10-26,Armenia,Yerevan,41,referral,1,0
+C01096,2024-03-14,Russia,Moscow,21,organic,1,0
+C01097,2026-01-31,Russia,Novosibirsk,55,ads,0,0
+C01098,2025-11-19,Russia,Saint Petersburg,40,email,0,0
+C01099,2024-02-07,Russia,Saint Petersburg,21,ads,0,0
+C01100,2025-01-30,Russia,Saint Petersburg,44,referral,1,1
+C01101,2025-03-13,Kazakhstan,Astana,46,ads,0,0
+C01102,2025-03-04,Russia,Saint Petersburg,53,referral,1,0
+C01103,2026-04-18,Kazakhstan,Almaty,47,ads,1,0
+C01104,2024-05-17,Georgia,Tbilisi,56,ads,1,0
+C01105,2024-10-06,Belarus,Minsk,44,organic,1,1
+C01106,2024-06-14,Kazakhstan,Almaty,64,referral,1,0
+C01107,2024-08-10,Kazakhstan,Astana,70,organic,0,0
+C01108,2026-04-07,Georgia,Tbilisi,64,email,1,0
+C01109,2026-05-07,Russia,Novosibirsk,60,organic,1,0
+C01110,2024-02-10,Russia,Moscow,40,organic,1,0
+C01111,2025-07-30,Russia,Novosibirsk,44,referral,1,0
+C01112,2024-07-31,Russia,Moscow,50,organic,0,0
+C01113,2024-06-24,Russia,Kazan,26,ads,1,0
+C01114,2024-09-23,Belarus,Minsk,53,referral,0,0
+C01115,2024-06-26,Russia,Saint Petersburg,49,organic,1,0
+C01116,2025-03-23,Georgia,Tbilisi,45,organic,0,0
+C01117,2026-06-26,Russia,Saint Petersburg,62,ads,1,0
+C01118,2025-06-18,Russia,Saint Petersburg,54,organic,0,0
+C01119,2025-10-21,Russia,Novosibirsk,44,organic,1,1
+C01120,2025-03-25,Russia,Novosibirsk,44,organic,0,1
+C01121,2024-01-13,Russia,Novosibirsk,61,ads,1,0
+C01122,2024-03-17,Russia,Saint Petersburg,33,organic,1,0
+C01123,2024-09-02,Russia,Kazan,28,organic,1,0
+C01124,2024-08-10,Russia,Saint Petersburg,33,ads,1,0
+C01125,2026-02-05,Russia,Novosibirsk,55,ads,1,0
+C01126,2026-02-08,Russia,Kazan,63,organic,0,0
+C01127,2026-02-17,Russia,Saint Petersburg,64,organic,1,0
+C01128,2025-08-04,Russia,Saint Petersburg,54,referral,1,0
+C01129,2025-05-22,Russia,Saint Petersburg,54,ads,0,0
+C01130,2025-08-15,Russia,Kazan,68,unknown,0,0
+C01131,2025-01-06,Russia,Kazan,54,ads,0,0
+C01132,2025-09-03,Kazakhstan,Almaty,25,organic,1,0
+C01133,2025-12-25,Georgia,Tbilisi,44,referral,1,0
+C01134,2025-11-26,Georgia,Tbilisi,37,email,1,0
+C01135,2025-07-13,Russia,Novosibirsk,51,email,1,0
+C01136,2024-02-22,Russia,Novosibirsk,44,organic,0,1
+C01137,2025-10-23,Russia,Saint Petersburg,33,organic,1,0
+C01138,2024-11-30,Kazakhstan,Astana,33,organic,0,0
+C01139,2025-11-09,Kazakhstan,Almaty,22,organic,0,0
+C01140,2025-05-07,Kazakhstan,Astana,33,organic,1,0
+C01141,2026-03-14,Armenia,Yerevan,61,ads,0,0
+C01142,2024-11-04,Russia,Saint Petersburg,52,organic,0,0
+C01143,2026-04-29,Kazakhstan,Astana,67,unknown,1,0
+C01144,2026-02-09,Kazakhstan,Almaty,67,organic,1,0
+C01145,2024-10-28,Russia,Saint Petersburg,63,organic,1,0
+C01146,2025-03-16,Georgia,Tbilisi,27,referral,0,0
+C01147,2025-04-29,Russia,Saint Petersburg,35,referral,1,0
+C01148,2025-12-01,Georgia,Tbilisi,21,ads,1,0
+C01149,2025-09-20,Kazakhstan,Astana,22,ads,0,0
+C01150,2026-02-16,Russia,Moscow,30,organic,1,0
+C01151,2024-12-03,Belarus,Gomel,32,organic,0,0
+C01152,2025-04-05,Russia,Novosibirsk,18,ads,1,0
+C01153,2025-01-27,Kazakhstan,Astana,62,ads,1,0
+C01154,2026-04-09,Kazakhstan,Astana,45,ads,1,0
+C01155,2024-10-05,Belarus,Gomel,52,organic,1,0
+C01156,2025-06-19,Armenia,Yerevan,52,ads,1,0
+C01157,2024-04-19,Russia,Moscow,69,referral,0,0
+C01158,2026-02-14,Russia,Kazan,44,organic,1,1
+C01159,2024-12-16,Russia,Moscow,36,organic,0,0
+C01160,2024-11-06,Russia,Kazan,34,ads,1,0
+C01161,2025-06-15,Russia,Saint Petersburg,47,referral,0,0
+C01162,2025-03-30,Russia,Kazan,45,ads,1,0
+C01163,2026-02-12,Russia,Novosibirsk,59,unknown,1,0
+C01164,2025-04-29,Russia,Moscow,47,ads,1,0
+C01165,2025-04-16,Armenia,Yerevan,30,organic,1,0
+C01166,2024-04-05,Russia,Kazan,47,ads,0,0
+C01167,2024-01-21,Armenia,Yerevan,69,unknown,1,0
+C01168,2024-12-29,Russia,Saint Petersburg,48,referral,0,0
+C01169,2026-06-29,Russia,Saint Petersburg,49,organic,1,0
+C01170,2026-04-16,Russia,Kazan,27,organic,0,0
+C01171,2025-07-27,Russia,Novosibirsk,18,ads,1,0
+C01172,2025-07-29,Russia,Moscow,29,unknown,1,0
+C01173,2024-12-23,Russia,Novosibirsk,19,unknown,1,0
+C01174,2024-06-10,Russia,Novosibirsk,41,ads,0,0
+C01175,2024-01-08,Russia,Kazan,64,email,1,0
+C01176,2024-11-05,Russia,Kazan,41,referral,1,0
+C01177,2024-10-15,Russia,Saint Petersburg,52,referral,1,0
+C01178,2024-06-23,Kazakhstan,Almaty,63,ads,0,0
+C01179,2024-08-24,Russia,Kazan,58,ads,1,0
+C01180,2024-01-23,Georgia,Tbilisi,52,ads,1,0
+C01181,2025-07-08,Kazakhstan,Astana,59,ads,1,0
+C01182,2026-04-25,Georgia,Tbilisi,32,organic,1,0
+C01183,2025-09-22,Kazakhstan,Almaty,40,ads,1,0
+C01184,2025-02-12,Russia,Kazan,39,organic,1,0
+C01185,2025-01-18,Russia,Kazan,60,unknown,0,0
+C01186,2024-10-07,Russia,Novosibirsk,39,referral,1,0
+C01187,2024-05-09,Kazakhstan,Almaty,67,organic,1,0
+C01188,2025-06-29,Russia,Saint Petersburg,27,ads,0,0
+C01189,2025-05-31,Russia,Saint Petersburg,27,ads,1,0
+C01190,2024-01-07,Georgia,Tbilisi,55,organic,1,0
+C01191,2025-01-13,Russia,Novosibirsk,58,referral,1,0
+C01192,2024-09-10,Russia,Novosibirsk,53,organic,1,0
+C01193,2024-06-04,Kazakhstan,Almaty,34,referral,1,0
+C01194,2025-10-03,Russia,Novosibirsk,18,referral,1,0
+C01195,2025-04-24,Russia,Kazan,44,organic,0,1
+C01196,2025-07-31,Kazakhstan,Almaty,42,organic,1,0
+C01197,2025-10-12,Russia,Moscow,39,organic,1,0
+C01198,2026-06-14,Russia,Kazan,66,ads,0,0
+C01199,2026-01-02,Russia,Kazan,63,unknown,0,0
+C01200,2025-07-19,Belarus,Gomel,59,email,1,0
+C01201,2026-03-12,Russia,Kazan,19,organic,1,0
+C01202,2025-03-11,Georgia,Tbilisi,24,referral,1,0
+C01203,2026-06-17,Armenia,Yerevan,40,organic,1,0
+C01204,2025-11-25,Russia,Moscow,50,email,1,0
+C01205,2025-08-16,Russia,Kazan,44,organic,1,1
+C01206,2026-04-03,Russia,Kazan,44,ads,0,1
+C01207,2025-04-14,Kazakhstan,Almaty,23,ads,0,0
+C01208,2025-10-19,Russia,Saint Petersburg,35,organic,1,0
+C01209,2024-09-16,Russia,Novosibirsk,59,referral,1,0
+C01210,2026-05-28,Russia,Kazan,70,organic,1,0
+C01211,2025-07-22,Georgia,Tbilisi,44,ads,1,1
+C01212,2025-12-14,Russia,Kazan,49,ads,1,0
+C01213,2025-02-24,Armenia,Yerevan,22,ads,1,0
+C01214,2026-03-01,Russia,Saint Petersburg,69,organic,1,0
+C01215,2024-03-08,Armenia,Yerevan,26,organic,0,0
+C01216,2024-04-14,Russia,Saint Petersburg,32,unknown,1,0
+C01217,2025-04-07,Russia,Kazan,69,organic,1,0
+C01218,2025-10-29,Georgia,Tbilisi,44,organic,1,0
+C01219,2026-01-08,Georgia,Tbilisi,28,email,1,0
+C01220,2025-02-05,Russia,Novosibirsk,44,ads,1,0
+C01221,2025-08-15,Russia,Kazan,22,ads,0,0
+C01222,2025-05-19,Russia,Kazan,34,ads,1,0
+C01223,2026-05-26,Russia,Moscow,68,organic,0,0
+C01224,2025-08-19,Russia,Novosibirsk,33,ads,1,0
+C01225,2025-01-15,Armenia,Yerevan,65,organic,1,0
+C01226,2026-06-03,Russia,Moscow,46,organic,0,0
+C01227,2024-04-07,Kazakhstan,Astana,52,ads,1,0
+C01228,2026-06-16,Russia,Saint Petersburg,55,ads,0,0
+C01229,2024-05-20,Russia,Novosibirsk,47,email,1,0
+C01230,2024-09-19,Belarus,Gomel,19,organic,1,0
+C01231,2026-01-19,Russia,Novosibirsk,66,ads,1,0
+C01232,2025-10-31,Belarus,Gomel,43,organic,1,0
+C01233,2026-06-03,Russia,Kazan,52,organic,0,0
+C01234,2025-11-14,Georgia,Tbilisi,47,referral,1,0
+C01235,2025-08-03,Kazakhstan,Astana,52,organic,1,0
+C01236,2024-11-12,Armenia,Yerevan,36,ads,1,0
+C01237,2024-01-05,Russia,Moscow,62,ads,1,0
+C01238,2024-04-22,Russia,Moscow,29,organic,1,0
+C01239,2024-09-28,Russia,Kazan,52,email,1,0
+C01240,2024-02-07,Russia,Novosibirsk,48,ads,1,0
+C01241,2025-04-08,Russia,Novosibirsk,44,referral,0,0
+C01242,2025-12-09,Russia,Kazan,19,ads,0,0
+C01243,2026-05-28,Russia,Kazan,38,email,0,0
+C01244,2025-03-22,Russia,Kazan,20,organic,1,0
+C01245,2026-03-09,Russia,Novosibirsk,44,ads,1,0
+C01246,2026-06-17,Russia,Novosibirsk,54,referral,0,0
+C01247,2026-02-23,Russia,Moscow,45,organic,1,0
+C01248,2025-02-28,Belarus,Gomel,58,ads,1,0
+C01249,2024-10-23,Russia,Saint Petersburg,37,email,1,0
+C01250,2026-06-10,Russia,Novosibirsk,34,ads,1,0
+C01251,2024-08-08,Russia,Kazan,44,ads,1,1
+C01252,2025-01-10,Kazakhstan,Astana,30,ads,0,0
+C01253,2024-03-08,Russia,Saint Petersburg,60,referral,1,0
+C01254,2025-12-24,Russia,Kazan,60,unknown,1,0
+C01255,2025-08-15,Georgia,Tbilisi,40,ads,0,0
+C01256,2024-03-18,Russia,Moscow,60,organic,1,0
+C01257,2024-07-21,Armenia,Yerevan,19,organic,1,0
+C01258,2025-05-21,Kazakhstan,Astana,26,ads,1,0
+C01259,2025-05-07,Russia,Moscow,33,referral,1,0
+C01260,2026-01-01,Russia,Saint Petersburg,38,ads,1,0
+C01261,2024-08-30,Belarus,Gomel,30,organic,1,0
+C01262,2026-04-23,Georgia,Tbilisi,45,organic,0,0
+C01263,2025-02-09,Russia,Novosibirsk,60,ads,1,0
+C01264,2026-01-20,Russia,Saint Petersburg,42,referral,0,0
+C01265,2024-08-05,Russia,Saint Petersburg,41,organic,1,0
+C01266,2024-02-03,Russia,Moscow,21,ads,1,0
+C01267,2024-02-20,Kazakhstan,Astana,32,referral,1,0
+C01268,2024-12-05,Russia,Moscow,60,email,0,0
+C01269,2026-05-19,Kazakhstan,Almaty,44,organic,1,1
+C01270,2024-02-14,Armenia,Yerevan,23,email,1,0
+C01271,2024-12-02,Belarus,Minsk,19,ads,1,0
+C01272,2024-04-09,Belarus,Minsk,62,referral,1,0
+C01273,2026-04-29,Kazakhstan,Almaty,27,organic,0,0
+C01274,2025-09-07,Kazakhstan,Astana,48,ads,1,0
+C01275,2025-11-26,Armenia,Yerevan,61,ads,1,0
+C01276,2025-10-12,Russia,Kazan,59,unknown,1,0
+C01277,2025-08-22,Russia,Saint Petersburg,47,ads,0,0
+C01278,2025-12-06,Russia,Novosibirsk,37,ads,1,0
+C01279,2024-01-08,Armenia,Yerevan,59,ads,1,0
+C01280,2026-02-28,Belarus,Gomel,54,organic,1,0
+C01281,2025-11-05,Russia,Moscow,44,ads,1,1
+C01282,2025-11-05,Russia,Kazan,45,organic,1,0
+C01283,2024-12-24,Russia,Kazan,67,email,0,0
+C01284,2025-12-31,Kazakhstan,Astana,58,email,1,0
+C01285,2024-12-14,Russia,Moscow,21,organic,1,0
+C01286,2024-02-14,Russia,Moscow,33,organic,0,0
+C01287,2026-04-07,Armenia,Yerevan,60,organic,1,0
+C01288,2024-08-01,Kazakhstan,Almaty,24,ads,1,0
+C01289,2024-04-02,Russia,Saint Petersburg,55,referral,1,0
+C01290,2025-07-21,Russia,Novosibirsk,36,ads,1,0
+C01291,2024-08-01,Georgia,Tbilisi,28,organic,1,0
+C01292,2026-02-21,Kazakhstan,Astana,46,organic,1,0
+C01294,2024-01-05,Russia,Kazan,65,referral,1,0
+C01295,2026-05-17,Russia,Novosibirsk,44,ads,1,1
+C01296,2025-04-14,Russia,Saint Petersburg,18,ads,1,0
+C01297,2024-08-27,Kazakhstan,Almaty,65,organic,1,0
+C01298,2025-09-09,Russia,Moscow,65,email,0,0
+C01299,2025-04-28,Russia,Saint Petersburg,50,organic,1,0
+C01300,2024-01-28,Kazakhstan,Astana,51,referral,0,0
+C01301,2025-11-23,Georgia,Tbilisi,44,referral,1,1
+C01302,2025-01-01,Kazakhstan,Almaty,18,ads,1,0
+C01303,2025-09-30,Russia,Saint Petersburg,26,referral,0,0
+C01304,2026-03-27,Russia,Saint Petersburg,25,organic,1,0
+C01305,2025-07-10,Russia,Novosibirsk,66,ads,0,0
+C01306,2025-09-04,Russia,Novosibirsk,20,organic,1,0
+C01307,2024-08-20,Russia,Moscow,47,ads,1,0
+C01308,2024-08-04,Russia,Moscow,37,organic,1,0
+C01309,2025-01-13,Russia,Moscow,18,organic,1,0
+C01310,2026-02-16,Armenia,Yerevan,66,organic,0,0
+C01311,2025-04-23,Georgia,Tbilisi,18,organic,1,0
+C01312,2024-11-13,Russia,Novosibirsk,63,ads,1,0
+C01313,2025-12-12,Russia,Saint Petersburg,59,ads,0,0
+C01314,2026-02-17,Russia,Novosibirsk,60,organic,1,0
+C01315,2026-04-03,Russia,Kazan,26,email,0,0
+C01316,2024-09-29,Russia,Kazan,64,email,1,0
+C01317,2025-10-09,Russia,Saint Petersburg,49,organic,0,0
+C01318,2025-06-22,Kazakhstan,Almaty,39,ads,1,0
+C01319,2025-02-13,Russia,Moscow,54,ads,0,0
+C01320,2024-12-28,Armenia,Yerevan,36,referral,0,0
+C01321,2024-04-14,Russia,Kazan,32,ads,1,0
+C01322,2024-09-07,Russia,Saint Petersburg,33,referral,1,0
+C01323,2025-05-16,Russia,Saint Petersburg,48,organic,1,0
+C01324,2026-03-19,Russia,Moscow,49,unknown,1,0
+C01325,2026-03-01,Russia,Novosibirsk,30,referral,1,0
+C01326,2024-06-20,Georgia,Tbilisi,31,ads,1,0
+C01327,2025-09-11,Russia,Novosibirsk,68,referral,1,0
+C01328,2024-03-18,Russia,Saint Petersburg,45,organic,1,0
+C01329,2025-09-07,Russia,Kazan,63,organic,1,0
+C01330,2024-11-07,Russia,Novosibirsk,35,unknown,1,0
+C01331,2025-02-14,Russia,Kazan,33,organic,1,0
+C01332,2025-10-16,Russia,Kazan,32,organic,1,0
+C01333,2025-01-22,Kazakhstan,Almaty,46,ads,1,0
+C01334,2026-01-06,Russia,Kazan,59,ads,1,0
+C01335,2025-05-01,Russia,Kazan,44,ads,1,0
+C01336,2026-06-29,Belarus,Gomel,33,ads,1,0
+C01337,2025-08-05,Armenia,Yerevan,68,organic,1,0
+C01338,2024-09-27,Russia,Kazan,48,ads,1,0
+C01339,2025-12-08,Russia,Kazan,38,organic,1,0
+C01340,2025-01-07,Russia,Moscow,18,referral,1,0
+C01341,2025-05-02,Russia,Novosibirsk,47,organic,0,0
+C01342,2024-05-04,Russia,Novosibirsk,50,ads,0,0
+C01343,2024-04-18,Kazakhstan,Almaty,67,referral,0,0
+C01344,2025-06-08,Russia,Saint Petersburg,30,ads,0,0
+C01345,2024-06-19,Kazakhstan,Astana,26,ads,1,0
+C01346,2026-06-28,Russia,Saint Petersburg,70,ads,0,0
+C01347,2026-02-19,Armenia,Yerevan,47,organic,0,0
+C01348,2025-10-01,Kazakhstan,Astana,19,ads,1,0
+C01349,2025-11-01,Russia,Novosibirsk,44,referral,0,1
+C01350,2025-06-26,Russia,Novosibirsk,43,email,0,0
+C01351,2024-02-24,Russia,Moscow,50,ads,0,0
+C01352,2024-12-23,Armenia,Yerevan,30,organic,1,0
+C01353,2025-03-28,Russia,Saint Petersburg,37,referral,1,0
+C01354,2026-04-14,Russia,Kazan,57,ads,1,0
+C01355,2024-07-19,Russia,Novosibirsk,69,organic,1,0
+C01356,2025-03-29,Kazakhstan,Almaty,44,organic,1,0
+C01357,2024-11-09,Russia,Saint Petersburg,40,unknown,1,0
+C01358,2024-05-02,Russia,Moscow,37,ads,1,0
+C01359,2024-04-03,Georgia,Tbilisi,25,organic,1,0
+C01360,2024-11-29,Russia,Novosibirsk,20,organic,1,0
+C01361,2024-03-16,Kazakhstan,Astana,62,organic,1,0
+C01362,2024-03-02,Russia,Moscow,19,email,1,0
+C01363,2024-11-15,Russia,Moscow,61,organic,1,0
+C01364,2024-07-03,Armenia,Yerevan,31,organic,0,0
+C01365,2025-05-20,Belarus,Minsk,44,ads,1,1
+C01366,2024-01-17,Belarus,Gomel,68,organic,0,0
+C01367,2024-10-02,Russia,Saint Petersburg,44,email,1,1
+C01368,2025-02-17,Russia,Saint Petersburg,56,email,1,0
+C01369,2026-05-28,Russia,Saint Petersburg,32,ads,1,0
+C01370,2025-08-01,Russia,Kazan,49,ads,0,0
+C01371,2026-03-14,Russia,Saint Petersburg,52,ads,1,0
+C01372,2024-11-09,Russia,Moscow,44,organic,1,1
+C01373,2025-02-14,Russia,Novosibirsk,20,organic,1,0
+C01374,2025-01-18,Russia,Saint Petersburg,66,organic,0,0
+C01375,2026-03-20,Russia,Saint Petersburg,28,organic,1,0
+C01376,2026-05-24,Russia,Kazan,69,ads,1,0
+C01377,2026-05-27,Armenia,Yerevan,67,organic,1,0
+C01378,2025-11-16,Belarus,Gomel,18,organic,1,0
+C01379,2025-04-03,Russia,Moscow,57,ads,0,0
+C01380,2025-05-08,Belarus,Minsk,51,ads,0,0
+C01381,2026-06-13,Kazakhstan,Almaty,30,unknown,0,0
+C01382,2024-09-16,Russia,Novosibirsk,61,organic,1,0
+C01383,2024-11-12,Russia,Kazan,23,organic,1,0
+C01384,2026-03-29,Russia,Novosibirsk,31,organic,1,0
+C01385,2024-12-18,Russia,Kazan,68,referral,1,0
+C01386,2024-08-02,Kazakhstan,Almaty,57,email,1,0
+C01387,2025-05-26,Georgia,Tbilisi,23,ads,0,0
+C01388,2024-10-23,Russia,Kazan,25,ads,0,0
+C01389,2026-03-23,Kazakhstan,Astana,31,referral,1,0
+C01390,2026-04-09,Russia,Saint Petersburg,21,ads,1,0
+C01391,2024-10-06,Russia,Novosibirsk,27,organic,1,0
+C01392,2025-04-27,Kazakhstan,Astana,48,organic,0,0
+C01393,2026-06-16,Russia,Novosibirsk,18,ads,1,0
+C01394,2025-11-07,Russia,Novosibirsk,33,ads,0,0
+C01395,2024-07-15,Russia,Saint Petersburg,34,organic,1,0
+C01396,2025-06-22,Georgia,Tbilisi,44,organic,0,1
+C01397,2025-07-19,Russia,Moscow,69,organic,1,0
+C01398,2025-08-18,Russia,Saint Petersburg,62,organic,1,0
+C01399,2024-01-23,Russia,Kazan,36,ads,1,0
+C01400,2024-09-30,Russia,Novosibirsk,45,ads,1,0
+C01401,2026-02-18,Russia,Saint Petersburg,44,ads,1,0
+C01402,2024-08-08,Kazakhstan,Almaty,63,organic,1,0
+C01403,2024-09-30,Kazakhstan,Almaty,44,organic,0,1
+C01404,2024-10-21,Armenia,Yerevan,66,referral,1,0
+C01405,2024-06-10,Kazakhstan,Astana,47,ads,0,0
+C01406,2024-05-21,Russia,Moscow,66,organic,0,0
+C01407,2024-11-12,Russia,Saint Petersburg,57,organic,1,0
+C01409,2024-01-02,Russia,Novosibirsk,53,referral,0,0
+C01410,2024-09-15,Georgia,Tbilisi,35,referral,1,0
+C01411,2024-02-25,Belarus,Minsk,50,ads,0,0
+C01412,2025-05-27,Georgia,Tbilisi,36,ads,0,0
+C01413,2024-08-16,Russia,Moscow,52,ads,1,0
+C01414,2025-12-23,Russia,Saint Petersburg,31,organic,1,0
+C01415,2025-06-17,Russia,Moscow,60,ads,1,0
+C01416,2025-12-15,Russia,Saint Petersburg,48,ads,1,0
+C01417,2025-08-02,Russia,Novosibirsk,55,organic,1,0
+C01418,2025-02-03,Russia,Kazan,29,unknown,0,0
+C01419,2026-02-24,Russia,Novosibirsk,59,ads,1,0
+C01420,2025-03-10,Georgia,Tbilisi,60,organic,0,0
+C01421,2026-05-16,Russia,Kazan,25,organic,1,0
+C01422,2026-06-26,Russia,Novosibirsk,36,referral,0,0
+C01423,2025-06-21,Kazakhstan,Almaty,53,email,0,0
+C01424,2025-09-07,Russia,Novosibirsk,64,ads,0,0
+C01425,2024-08-21,Armenia,Yerevan,57,email,1,0
+C01426,2026-01-12,Kazakhstan,Almaty,42,referral,0,0
+C01427,2025-09-04,Russia,Saint Petersburg,33,unknown,1,0
+C01428,2026-04-03,Belarus,Gomel,66,referral,0,0
+C01429,2024-08-31,Belarus,Minsk,64,ads,1,0
+C01430,2025-12-19,Kazakhstan,Almaty,65,referral,1,0
+C01431,2025-03-04,Kazakhstan,Almaty,34,ads,1,0
+C01432,2024-06-17,Kazakhstan,Almaty,41,referral,1,0
+C01433,2024-06-05,Russia,Kazan,30,organic,1,0
+C01434,2025-05-27,Russia,Novosibirsk,68,referral,1,0
+C01435,2024-10-18,Belarus,Minsk,63,email,0,0
+C01436,2024-04-02,Georgia,Tbilisi,27,organic,1,0
+C01437,2025-01-24,Russia,Saint Petersburg,31,email,1,0
+C01438,2025-08-18,Belarus,Gomel,47,ads,1,0
+C01439,2024-10-17,Russia,Novosibirsk,40,organic,1,0
+C01440,2026-05-21,Kazakhstan,Almaty,42,organic,0,0
+C01441,2025-12-11,Georgia,Tbilisi,37,referral,1,0
+C01442,2025-04-12,Russia,Kazan,53,ads,1,0
+C01443,2026-05-02,Russia,Moscow,65,organic,1,0
+C01444,2025-01-29,Russia,Moscow,66,ads,1,0
+C01445,2024-05-07,Russia,Moscow,42,organic,1,0
+C01446,2024-02-02,Russia,Kazan,61,ads,1,0
+C01447,2026-05-05,Russia,Moscow,54,referral,0,0
+C01448,2026-05-25,Russia,Saint Petersburg,28,ads,1,0
+C01449,2025-11-05,Russia,Moscow,60,referral,1,0
+C01450,2024-04-03,Russia,Saint Petersburg,36,ads,1,0
+C01451,2024-09-24,Belarus,Gomel,51,email,1,0
+C01452,2024-02-07,Kazakhstan,Almaty,56,organic,0,0
+C01453,2024-02-16,Belarus,Minsk,68,organic,0,0
+C01454,2024-08-12,Kazakhstan,Astana,68,organic,0,0
+C01455,2025-06-05,Belarus,Gomel,60,ads,0,0
+C01456,2024-02-29,Russia,Moscow,44,ads,1,0
+C01457,2026-06-16,Belarus,Gomel,39,referral,1,0
+C01458,2025-02-19,Russia,Novosibirsk,41,organic,1,0
+C01459,2024-08-28,Russia,Kazan,68,organic,1,0
+C01460,2025-04-15,Russia,Kazan,28,ads,1,0
+C01461,2025-12-21,Armenia,Yerevan,45,email,1,0
+C01462,2024-10-12,Belarus,Gomel,54,organic,1,0
+C01463,2024-02-13,Russia,Saint Petersburg,19,organic,1,0
+C01464,2024-02-16,Russia,Saint Petersburg,51,organic,1,0
+C01465,2026-02-16,Russia,Saint Petersburg,44,ads,1,1
+C01466,2024-04-11,Kazakhstan,Almaty,32,organic,1,0
+C01467,2025-08-02,Kazakhstan,Astana,50,organic,0,0
+C01468,2024-12-16,Russia,Saint Petersburg,18,ads,1,0
+C01469,2025-12-10,Russia,Saint Petersburg,26,organic,1,0
+C01470,2024-02-25,Russia,Novosibirsk,42,ads,1,0
+C01471,2026-03-29,Russia,Kazan,48,organic,1,0
+C01472,2025-09-28,Armenia,Yerevan,23,email,1,0
+C01473,2025-02-13,Kazakhstan,Astana,37,ads,1,0
+C01474,2024-07-07,Russia,Moscow,34,organic,1,0
+C01475,2026-06-10,Russia,Saint Petersburg,46,organic,1,0
+C01476,2024-10-02,Russia,Kazan,33,ads,1,0
+C01477,2025-03-23,Russia,Saint Petersburg,18,referral,0,0
+C01478,2024-12-25,Russia,Moscow,46,organic,1,0
+C01479,2024-07-29,Russia,Novosibirsk,62,organic,1,0
+C01480,2025-01-14,Georgia,Tbilisi,44,organic,0,1
+C01481,2024-05-18,Russia,Saint Petersburg,37,ads,1,0
+C01482,2024-01-02,Russia,Kazan,43,email,0,0
+C01483,2024-09-21,Russia,Saint Petersburg,25,ads,0,0
+C01484,2024-04-12,Russia,Kazan,30,organic,1,0
+C01485,2025-01-13,Kazakhstan,Astana,41,referral,1,0
+C01486,2026-02-25,Russia,Novosibirsk,49,referral,1,0
+C01487,2024-05-28,Kazakhstan,Almaty,43,organic,1,0
+C01488,2024-01-02,Kazakhstan,Astana,44,organic,1,1
+C01489,2024-04-11,Russia,Novosibirsk,51,ads,0,0
+C01490,2025-04-08,Belarus,Gomel,19,referral,1,0
+C01491,2024-09-07,Georgia,Tbilisi,45,ads,0,0
+C01492,2025-03-22,Russia,Moscow,48,ads,1,0
+C01493,2024-01-27,Russia,Moscow,20,referral,1,0
+C01494,2024-10-30,Armenia,Yerevan,38,organic,1,0
+C01495,2025-01-09,Armenia,Yerevan,64,organic,1,0
+C01496,2025-01-28,Russia,Moscow,36,organic,1,0
+C01497,2025-05-17,Russia,Moscow,44,referral,0,1
+C01498,2025-12-12,Russia,Novosibirsk,29,ads,1,0
+C01499,2025-03-02,Kazakhstan,Astana,22,organic,1,0
+C01500,2026-02-06,Russia,Kazan,34,organic,1,0
+C01501,2025-04-28,Russia,Kazan,58,referral,0,0
+C01502,2024-08-25,Belarus,Gomel,70,referral,0,0
+C01503,2024-07-27,Georgia,Tbilisi,52,ads,1,0
+C01504,2024-10-21,Kazakhstan,Almaty,62,organic,0,0
+C01505,2025-06-28,Russia,Saint Petersburg,52,email,0,0
+C01506,2024-08-09,Russia,Kazan,52,referral,1,0
+C01508,2025-03-13,Georgia,Tbilisi,21,ads,1,0
+C01509,2026-02-26,Russia,Saint Petersburg,39,email,0,0
+C01510,2025-09-15,Belarus,Minsk,63,email,1,0
+C01511,2024-10-31,Russia,Kazan,46,ads,1,0
+C01512,2024-07-27,Russia,Novosibirsk,58,ads,0,0
+C01513,2025-11-09,Russia,Moscow,20,ads,1,0
+C01514,2024-10-28,Russia,Moscow,28,referral,1,0
+C01515,2024-08-13,Russia,Saint Petersburg,33,ads,0,0
+C01516,2026-04-28,Kazakhstan,Astana,37,organic,1,0
+C01517,2025-03-16,Russia,Kazan,70,organic,0,0
+C01518,2024-02-14,Russia,Kazan,42,email,1,0
+C01519,2025-03-27,Russia,Kazan,53,referral,1,0
+C01520,2025-02-24,Russia,Saint Petersburg,52,email,1,0
+C01521,2026-02-26,Russia,Kazan,40,ads,1,0
+C01522,2025-10-10,Russia,Moscow,69,referral,0,0
+C01523,2024-06-23,Russia,Moscow,29,referral,1,0
+C01524,2024-05-17,Belarus,Gomel,19,organic,0,0
+C01525,2025-07-04,Armenia,Yerevan,57,organic,1,0
+C01526,2024-02-13,Russia,Kazan,44,email,0,1
+C01527,2024-10-17,Armenia,Yerevan,31,organic,0,0
+C01528,2024-05-06,Armenia,Yerevan,64,ads,0,0
+C01529,2024-01-19,Kazakhstan,Almaty,26,ads,0,0
+C01530,2026-04-17,Belarus,Minsk,31,ads,0,0
+C01531,2024-03-22,Belarus,Minsk,26,organic,0,0
+C01532,2024-01-09,Belarus,Gomel,27,referral,1,0
+C01533,2026-04-30,Belarus,Gomel,56,organic,1,0
+C01534,2024-06-20,Russia,Saint Petersburg,44,referral,1,1
+C01535,2026-01-14,Georgia,Tbilisi,52,organic,1,0
+C01536,2024-01-29,Russia,Saint Petersburg,63,ads,1,0
+C01537,2024-05-20,Kazakhstan,Almaty,44,referral,1,1
+C01538,2024-04-10,Russia,Saint Petersburg,50,organic,1,0
+C01539,2025-10-06,Russia,Saint Petersburg,24,organic,1,0
+C01540,2025-07-19,Russia,Moscow,68,referral,1,0
+C01541,2025-03-09,Russia,Saint Petersburg,51,organic,0,0
+C01542,2024-08-08,Russia,Novosibirsk,58,organic,1,0
+C01543,2024-03-22,Russia,Novosibirsk,48,ads,1,0
+C01544,2025-06-03,Russia,Saint Petersburg,38,email,1,0
+C01545,2024-07-29,Russia,Novosibirsk,54,ads,1,0
+C01546,2025-06-22,Russia,Moscow,62,unknown,1,0
+C01547,2025-09-18,Georgia,Tbilisi,27,email,1,0
+C01548,2026-02-13,Russia,Novosibirsk,64,ads,0,0
+C01549,2025-03-26,Russia,Saint Petersburg,56,ads,0,0
+C01550,2024-01-05,Russia,Kazan,22,ads,1,0
+C01551,2024-09-12,Russia,Moscow,67,organic,0,0
+C01552,2026-02-17,Russia,Novosibirsk,27,organic,1,0
+C01553,2025-05-01,Belarus,Minsk,49,ads,0,0
+C01554,2025-07-18,Georgia,Tbilisi,24,organic,1,0
+C01555,2025-02-21,Russia,Novosibirsk,28,ads,1,0
+C01556,2024-05-28,Belarus,Minsk,52,organic,1,0
+C01557,2026-03-28,Russia,Kazan,54,ads,1,0
+C01558,2025-12-05,Russia,Moscow,54,organic,1,0
+C01559,2026-06-26,Russia,Novosibirsk,36,ads,1,0
+C01560,2026-02-19,Russia,Saint Petersburg,61,unknown,1,0
+C01561,2024-09-22,Belarus,Gomel,20,ads,1,0
+C01562,2024-08-19,Belarus,Gomel,63,organic,0,0
+C01563,2024-08-14,Kazakhstan,Astana,34,organic,1,0
+C01564,2026-04-17,Russia,Moscow,50,referral,1,0
+C01565,2025-05-22,Belarus,Minsk,65,organic,1,0
+C01566,2025-02-18,Russia,Moscow,44,referral,0,1
+C01567,2026-06-02,Russia,Novosibirsk,39,organic,1,0
+C01568,2025-07-04,Russia,Novosibirsk,61,organic,1,0
+C01569,2026-04-09,Belarus,Minsk,63,referral,1,0
+C01570,2026-06-17,Georgia,Tbilisi,30,ads,1,0
+C01571,2024-03-13,Russia,Novosibirsk,44,organic,1,0
+C01572,2024-11-25,Russia,Moscow,35,email,0,0
+C01573,2025-10-31,Kazakhstan,Astana,44,organic,1,1
+C01574,2026-01-11,Kazakhstan,Almaty,38,ads,0,0
+C01575,2024-05-15,Russia,Moscow,18,ads,1,0
+C01576,2024-10-17,Belarus,Minsk,66,ads,1,0
+C01577,2025-05-14,Belarus,Minsk,51,referral,1,0
+C01578,2025-12-29,Armenia,Yerevan,42,organic,0,0
+C01579,2024-04-13,Russia,Saint Petersburg,23,email,0,0
+C01580,2025-07-01,Georgia,Tbilisi,21,ads,0,0
+C01581,2024-09-27,Russia,Moscow,43,email,1,0
+C01582,2024-07-16,Kazakhstan,Almaty,52,referral,1,0
+C01583,2025-04-15,Russia,Moscow,31,email,1,0
+C01584,2025-01-12,Russia,Novosibirsk,57,ads,1,0
+C01585,2025-08-02,Russia,Saint Petersburg,44,ads,1,1
+C01586,2024-10-16,Russia,Moscow,18,ads,1,0
+C01587,2026-01-20,Russia,Kazan,46,ads,0,0
+C01588,2024-03-12,Russia,Novosibirsk,27,ads,1,0
+C01589,2026-02-25,Russia,Saint Petersburg,18,unknown,1,0
+C01590,2024-01-28,Russia,Novosibirsk,24,organic,1,0
+C01591,2025-11-02,Kazakhstan,Astana,33,referral,0,0
+C01592,2024-11-11,Armenia,Yerevan,45,organic,0,0
+C01593,2024-12-15,Belarus,Gomel,70,email,1,0
+C01594,2024-01-18,Russia,Saint Petersburg,29,organic,1,0
+C01595,2025-10-02,Russia,Moscow,21,organic,1,0
+C01596,2024-05-30,Armenia,Yerevan,28,referral,1,0
+C01597,2025-08-24,Russia,Saint Petersburg,34,referral,1,0
+C01598,2025-10-23,Russia,Novosibirsk,28,referral,0,0
+C01599,2026-02-09,Georgia,Tbilisi,35,email,1,0
+C01600,2025-10-07,Georgia,Tbilisi,44,organic,0,1
+C01601,2024-10-01,Russia,Novosibirsk,38,referral,1,0
+C01602,2025-11-04,Belarus,Gomel,51,ads,1,0
+C01603,2026-01-23,Russia,Novosibirsk,54,ads,1,0
+C01604,2024-10-16,Kazakhstan,Almaty,24,ads,1,0
+C01605,2024-04-23,Russia,Saint Petersburg,31,organic,1,0
+C01606,2026-03-22,Russia,Novosibirsk,40,ads,1,0
+C01607,2024-05-14,Belarus,Gomel,42,referral,1,0
+C01608,2025-06-25,Russia,Saint Petersburg,18,organic,1,0
+C01609,2024-08-03,Belarus,Minsk,52,email,1,0
+C01610,2024-04-24,Russia,Novosibirsk,33,ads,1,0
+C01611,2025-12-09,Armenia,Yerevan,35,organic,0,0
+C01612,2024-05-11,Kazakhstan,Almaty,49,ads,1,0
+C01613,2025-09-03,Russia,Moscow,68,organic,1,0
+C01614,2025-09-24,Kazakhstan,Astana,63,organic,0,0
+C01615,2024-02-24,Russia,Moscow,69,ads,1,0
+C01616,2024-06-06,Russia,Moscow,39,organic,1,0
+C01617,2025-12-25,Russia,Novosibirsk,44,organic,0,1
+C01618,2025-04-07,Armenia,Yerevan,29,referral,0,0
+C01619,2024-04-20,Kazakhstan,Almaty,36,organic,1,0
+C01620,2026-06-23,Armenia,Yerevan,33,unknown,1,0
+C01621,2024-08-29,Armenia,Yerevan,29,referral,1,0
+C01622,2024-01-04,Georgia,Tbilisi,25,organic,0,0
+C01623,2026-04-22,Russia,Kazan,27,ads,0,0
+C01624,2024-01-16,Georgia,Tbilisi,52,organic,0,0
+C01625,2025-05-19,Russia,Saint Petersburg,44,ads,1,0
+C01626,2026-06-24,Russia,Moscow,19,organic,0,0
+C01627,2025-06-10,Russia,Moscow,47,email,0,0
+C01628,2025-06-17,Russia,Novosibirsk,62,organic,0,0
+C01629,2024-12-20,Russia,Moscow,40,ads,1,0
+C01630,2024-04-25,Russia,Kazan,34,organic,1,0
+C01631,2025-06-06,Russia,Saint Petersburg,32,organic,1,0
+C01632,2026-03-29,Russia,Saint Petersburg,38,ads,1,0
+C01633,2024-03-24,Armenia,Yerevan,32,ads,1,0
+C01634,2026-03-13,Belarus,Gomel,66,email,1,0
+C01635,2025-01-13,Russia,Kazan,70,organic,1,0
+C01636,2025-05-04,Russia,Kazan,36,organic,1,0
+C01637,2024-05-30,Russia,Saint Petersburg,66,ads,0,0
+C01638,2025-07-21,Russia,Saint Petersburg,63,ads,1,0
+C01639,2024-06-15,Kazakhstan,Astana,22,referral,1,0
+C01640,2024-09-06,Russia,Moscow,44,email,1,0
+C01641,2025-10-20,Kazakhstan,Almaty,52,referral,0,0
+C01642,2024-02-16,Kazakhstan,Astana,40,unknown,1,0
+C01643,2025-02-11,Russia,Kazan,42,ads,1,0
+C01644,2025-06-26,Armenia,Yerevan,44,unknown,0,0
+C01645,2024-04-30,Russia,Moscow,54,organic,0,0
+C01646,2024-09-25,Armenia,Yerevan,33,ads,1,0
+C01647,2024-11-09,Kazakhstan,Astana,49,organic,1,0
+C01648,2025-08-28,Kazakhstan,Astana,30,organic,1,0
+C01649,2026-06-09,Belarus,Minsk,65,referral,1,0
+C01650,2026-02-01,Kazakhstan,Astana,22,organic,1,0
+C01651,2024-06-22,Georgia,Tbilisi,21,email,1,0
+C01652,2024-01-17,Russia,Novosibirsk,19,organic,1,0
+C01653,2024-02-17,Kazakhstan,Almaty,36,organic,0,0
+C01654,2025-06-27,Kazakhstan,Almaty,50,unknown,0,0
+C01655,2024-05-22,Russia,Saint Petersburg,70,organic,1,0
+C01656,2024-07-29,Georgia,Tbilisi,42,ads,0,0
+C01657,2026-02-11,Russia,Kazan,27,organic,0,0
+C01658,2026-03-07,Russia,Moscow,37,ads,1,0
+C01659,2026-02-04,Russia,Saint Petersburg,24,referral,1,0
+C01660,2024-08-19,Russia,Moscow,43,ads,0,0
+C01661,2025-07-19,Kazakhstan,Almaty,56,organic,1,0
+C01662,2025-07-11,Russia,Saint Petersburg,19,ads,1,0
+C01663,2024-06-17,Russia,Kazan,44,referral,1,1
+C01664,2025-05-19,Russia,Novosibirsk,30,ads,1,0
+C01665,2025-04-24,Russia,Moscow,53,organic,0,0
+C01666,2024-12-27,Kazakhstan,Almaty,61,ads,0,0
+C01667,2025-11-16,Armenia,Yerevan,59,ads,1,0
+C01668,2025-09-09,Russia,Saint Petersburg,53,organic,1,0
+C01669,2025-04-30,Russia,Kazan,54,organic,1,0
+C01670,2025-10-23,Russia,Novosibirsk,27,email,1,0
+C01671,2025-11-26,Belarus,Gomel,25,organic,1,0
+C01672,2025-06-01,Russia,Kazan,38,organic,1,0
+C01673,2024-09-01,Russia,Moscow,50,organic,0,0
+C01674,2025-11-22,Russia,Moscow,50,unknown,0,0
+C01675,2025-10-16,Russia,Moscow,59,ads,1,0
+C01676,2026-06-15,Russia,Kazan,34,organic,1,0
+C01677,2024-05-16,Russia,Saint Petersburg,44,ads,1,1
+C01678,2025-01-17,Kazakhstan,Almaty,41,ads,0,0
+C01679,2026-04-22,Kazakhstan,Astana,31,organic,1,0
+C01680,2025-04-14,Russia,Novosibirsk,56,email,0,0
+C01681,2026-05-09,Kazakhstan,Almaty,24,organic,1,0
+C01682,2024-01-12,Armenia,Yerevan,39,organic,0,0
+C01683,2024-02-02,Russia,Novosibirsk,59,email,1,0
+C01684,2025-12-26,Russia,Kazan,58,referral,0,0
+C01685,2024-11-22,Russia,Kazan,31,organic,0,0
+C01686,2025-04-19,Kazakhstan,Astana,26,referral,1,0
+C01687,2025-01-25,Russia,Moscow,19,ads,1,0
+C01688,2025-01-07,Belarus,Gomel,22,organic,1,0
+C01689,2026-05-06,Russia,Novosibirsk,61,referral,1,0
+C01690,2024-03-26,Russia,Novosibirsk,59,referral,1,0
+C01691,2025-12-05,Georgia,Tbilisi,44,organic,1,0
+C01692,2026-03-22,Russia,Kazan,48,ads,1,0
+C01693,2025-08-22,Armenia,Yerevan,35,ads,1,0
+C01694,2024-12-26,Georgia,Tbilisi,28,organic,1,0
+C01695,2024-05-25,Armenia,Yerevan,18,email,1,0
+C01696,2025-09-14,Russia,Novosibirsk,53,ads,1,0
+C01697,2025-03-03,Kazakhstan,Astana,19,ads,0,0
+C01698,2024-05-16,Russia,Novosibirsk,23,ads,1,0
+C01699,2024-11-24,Russia,Novosibirsk,60,ads,1,0
+C01700,2026-05-26,Armenia,Yerevan,48,organic,1,0
+C01701,2024-08-30,Belarus,Gomel,43,email,1,0
+C01702,2024-06-11,Russia,Saint Petersburg,29,ads,0,0
+C01703,2025-09-13,Russia,Kazan,25,ads,0,0
+C01704,2024-06-30,Kazakhstan,Almaty,42,unknown,1,0
+C01705,2026-04-18,Kazakhstan,Astana,37,organic,1,0
+C01706,2026-02-22,Russia,Novosibirsk,46,organic,1,0
+C01707,2026-06-15,Armenia,Yerevan,26,ads,1,0
+C01708,2026-04-12,Russia,Novosibirsk,44,organic,1,1
+C01709,2024-08-10,Russia,Kazan,23,ads,1,0
+C01710,2024-07-12,Belarus,Minsk,40,referral,1,0
+C01711,2024-11-08,Georgia,Tbilisi,32,organic,0,0
+C01712,2025-03-04,Russia,Moscow,29,organic,1,0
+C01713,2026-03-13,Russia,Kazan,47,ads,1,0
+C01714,2025-10-30,Russia,Kazan,44,organic,1,0
+C01715,2025-08-10,Armenia,Yerevan,29,email,1,0
+C01716,2026-03-12,Russia,Kazan,55,ads,1,0
+C01717,2025-08-12,Russia,Kazan,36,organic,1,0
+C01718,2024-12-11,Georgia,Tbilisi,36,organic,1,0
+C01719,2025-01-11,Russia,Novosibirsk,43,email,1,0
+C01720,2025-04-16,Russia,Moscow,25,organic,0,0
+C01721,2024-03-21,Russia,Saint Petersburg,40,ads,1,0
+C01722,2025-11-07,Kazakhstan,Astana,48,organic,1,0
+C01723,2025-08-18,Russia,Novosibirsk,24,organic,1,0
+C01724,2025-10-28,Russia,Novosibirsk,47,referral,1,0
+C01725,2025-05-01,Russia,Novosibirsk,20,organic,1,0
+C01726,2025-12-15,Kazakhstan,Astana,49,organic,1,0
+C01727,2026-05-16,Kazakhstan,Astana,19,ads,1,0
+C01728,2025-06-03,Russia,Kazan,27,referral,0,0
+C01729,2025-02-09,Russia,Moscow,36,unknown,1,0
+C01730,2024-04-05,Armenia,Yerevan,50,organic,1,0
+C01731,2025-12-11,Russia,Kazan,56,email,1,0
+C01732,2026-04-04,Russia,Kazan,42,unknown,1,0
+C01733,2025-09-29,Russia,Moscow,24,unknown,1,0
+C01734,2026-02-28,Russia,Novosibirsk,38,referral,1,0
+C01735,2026-02-24,Russia,Kazan,59,ads,0,0
+C01736,2025-12-28,Russia,Novosibirsk,22,ads,0,0
+C01737,2025-04-03,Russia,Moscow,55,organic,1,0
+C01738,2024-04-01,Russia,Novosibirsk,38,referral,1,0
+C01739,2024-01-03,Kazakhstan,Almaty,18,referral,1,0
+C01740,2024-07-05,Russia,Kazan,54,email,1,0
+C01741,2025-01-28,Russia,Kazan,19,ads,0,0
+C01742,2025-11-09,Kazakhstan,Astana,37,organic,1,0
+C01743,2025-02-19,Russia,Novosibirsk,28,ads,1,0
+C01744,2024-01-22,Kazakhstan,Almaty,48,ads,1,0
+C01745,2024-07-10,Russia,Kazan,20,ads,1,0
+C01746,2026-06-12,Kazakhstan,Astana,22,referral,1,0
+C01747,2026-06-20,Russia,Moscow,46,ads,1,0
+C01748,2024-12-09,Russia,Saint Petersburg,70,organic,1,0
+C01749,2026-01-04,Russia,Saint Petersburg,20,ads,1,0
+C01750,2025-10-18,Russia,Kazan,42,ads,1,0
+C01751,2026-04-29,Russia,Novosibirsk,60,email,1,0
+C01752,2026-03-20,Kazakhstan,Astana,33,ads,1,0
+C01753,2025-07-27,Kazakhstan,Astana,44,ads,1,0
+C01754,2024-12-25,Russia,Saint Petersburg,62,ads,1,0
+C01755,2025-07-25,Armenia,Yerevan,56,ads,1,0
+C01756,2024-10-18,Kazakhstan,Astana,33,organic,1,0
+C01757,2024-11-13,Armenia,Yerevan,57,referral,1,0
+C01758,2025-07-09,Belarus,Minsk,53,email,0,0
+C01759,2025-06-05,Belarus,Minsk,44,ads,0,0
+C01760,2025-06-13,Russia,Moscow,41,ads,1,0
+C01761,2024-12-16,Belarus,Minsk,67,organic,1,0
+C01762,2025-01-08,Armenia,Yerevan,64,ads,1,0
+C01763,2024-01-10,Russia,Novosibirsk,70,ads,1,0
+C01764,2025-07-02,Russia,Novosibirsk,53,referral,1,0
+C01765,2025-06-09,Russia,Kazan,37,organic,0,0
+C01766,2026-05-03,Georgia,Tbilisi,23,referral,0,0
+C01767,2025-04-04,Russia,Moscow,24,organic,0,0
+C01768,2025-03-02,Belarus,Minsk,68,ads,1,0
+C01769,2024-03-02,Kazakhstan,Almaty,37,ads,0,0
+C01770,2024-06-28,Georgia,Tbilisi,23,organic,1,0
+C01771,2024-11-04,Russia,Kazan,29,ads,1,0
+C01772,2024-12-10,Kazakhstan,Almaty,19,referral,1,0
+C01773,2024-11-26,Armenia,Yerevan,46,ads,1,0
+C01774,2024-12-25,Russia,Saint Petersburg,49,organic,1,0
+C01775,2025-12-02,Kazakhstan,Astana,38,ads,1,0
+C01776,2024-04-29,Russia,Novosibirsk,57,organic,1,0
+C01777,2024-10-30,Belarus,Gomel,43,ads,1,0
+C01778,2024-05-28,Russia,Saint Petersburg,68,ads,1,0
+C01779,2024-10-07,Russia,Kazan,58,organic,1,0
+C01780,2025-09-16,Russia,Moscow,21,ads,1,0
+C01781,2024-02-12,Russia,Novosibirsk,32,referral,1,0
+C01782,2024-11-05,Russia,Moscow,57,referral,1,0
+C01783,2024-01-22,Belarus,Gomel,46,organic,1,0
+C01784,2026-05-20,Russia,Kazan,57,organic,1,0
+C01785,2025-10-25,Russia,Novosibirsk,35,ads,1,0
+C01786,2024-08-10,Belarus,Minsk,20,organic,1,0
+C01787,2024-06-29,Belarus,Minsk,59,ads,1,0
+C01788,2024-03-31,Russia,Novosibirsk,59,organic,1,0
+C01789,2025-03-07,Georgia,Tbilisi,51,organic,0,0
+C01790,2025-11-18,Russia,Kazan,39,unknown,1,0
+C01791,2025-06-16,Kazakhstan,Almaty,18,organic,0,0
+C01792,2026-03-14,Russia,Saint Petersburg,56,referral,1,0
+C01793,2024-11-09,Kazakhstan,Almaty,52,organic,1,0
+C01794,2024-09-10,Georgia,Tbilisi,53,ads,1,0
+C01795,2025-03-11,Kazakhstan,Almaty,27,ads,1,0
+C01796,2024-07-03,Russia,Saint Petersburg,56,referral,1,0
+C01797,2026-06-08,Belarus,Minsk,56,referral,1,0
+C01798,2024-06-18,Russia,Saint Petersburg,63,ads,1,0
+C01799,2025-03-12,Belarus,Minsk,48,ads,1,0
+C01800,2025-04-21,Kazakhstan,Astana,56,organic,1,0
+C01801,2024-02-22,Georgia,Tbilisi,39,ads,0,0
+C01802,2025-03-03,Russia,Moscow,54,organic,1,0
+C01803,2025-02-18,Russia,Moscow,54,ads,0,0
+C01804,2024-08-24,Russia,Moscow,59,organic,1,0
+C01805,2024-04-26,Russia,Novosibirsk,63,referral,0,0
+C01806,2024-02-11,Russia,Saint Petersburg,18,ads,1,0
+C01807,2024-01-08,Russia,Saint Petersburg,59,ads,0,0
+C01808,2025-03-15,Kazakhstan,Almaty,60,ads,1,0
+C01809,2024-03-22,Russia,Moscow,46,organic,1,0
+C01810,2026-05-24,Russia,Saint Petersburg,45,organic,1,0
+C01811,2024-08-11,Russia,Moscow,56,email,0,0
+C01812,2025-08-18,Armenia,Yerevan,42,referral,1,0
+C01813,2025-09-06,Belarus,Gomel,39,organic,1,0
+C01814,2025-03-27,Russia,Moscow,60,referral,0,0
+C01815,2026-03-16,Russia,Saint Petersburg,59,ads,1,0
+C01816,2024-04-10,Russia,Novosibirsk,28,organic,1,0
+C01817,2024-08-01,Russia,Novosibirsk,61,ads,1,0
+C01818,2024-08-18,Russia,Kazan,35,organic,1,0
+C01819,2024-05-03,Russia,Moscow,25,organic,0,0
+C01820,2024-09-25,Armenia,Yerevan,64,ads,1,0
+C01821,2024-10-12,Russia,Saint Petersburg,30,organic,0,0
+C01822,2025-11-28,Belarus,Minsk,44,referral,1,1
+C01823,2024-10-02,Russia,Kazan,32,ads,1,0
+C01824,2026-03-10,Georgia,Tbilisi,44,referral,1,0
+C01825,2025-12-05,Georgia,Tbilisi,26,ads,1,0
+C01826,2026-04-02,Kazakhstan,Almaty,26,referral,1,0
+C01827,2024-04-05,Russia,Kazan,38,ads,0,0
+C01828,2026-06-16,Russia,Kazan,29,ads,1,0
+C01829,2025-07-13,Kazakhstan,Astana,28,ads,1,0
+C01830,2026-06-14,Kazakhstan,Almaty,66,email,0,0
+C01831,2024-11-19,Russia,Novosibirsk,49,organic,0,0
+C01832,2026-05-19,Russia,Saint Petersburg,18,ads,1,0
+C01833,2025-06-20,Russia,Kazan,23,referral,0,0
+C01834,2024-03-06,Kazakhstan,Astana,61,ads,1,0
+C01835,2025-01-09,Belarus,Gomel,32,referral,1,0
+C01836,2024-05-05,Belarus,Minsk,26,ads,1,0
+C01837,2026-05-08,Belarus,Gomel,53,organic,0,0
+C01838,2024-10-04,Russia,Saint Petersburg,62,ads,0,0
+C01839,2024-07-21,Russia,Saint Petersburg,39,unknown,0,0
+C01840,2025-05-19,Russia,Saint Petersburg,57,organic,1,0
+C01841,2025-01-22,Kazakhstan,Astana,40,organic,1,0
+C01842,2024-03-29,Russia,Kazan,23,organic,1,0
+C01843,2026-01-14,Russia,Moscow,60,referral,0,0
+C01844,2026-02-10,Russia,Novosibirsk,66,referral,1,0
+C01845,2025-11-08,Russia,Novosibirsk,70,ads,1,0
+C01846,2025-07-16,Russia,Moscow,23,organic,1,0
+C01847,2025-01-02,Russia,Novosibirsk,47,ads,1,0
+C01848,2025-05-09,Russia,Kazan,51,referral,1,0
+C01849,2025-04-20,Kazakhstan,Almaty,22,referral,1,0
+C01850,2024-05-30,Russia,Saint Petersburg,68,organic,1,0
+C01851,2024-03-15,Russia,Novosibirsk,23,organic,1,0
+C01852,2024-08-18,Russia,Saint Petersburg,32,email,1,0
+C01853,2025-02-18,Kazakhstan,Astana,69,referral,1,0
+C01854,2024-05-26,Russia,Saint Petersburg,47,organic,1,0
+C01855,2024-04-07,Kazakhstan,Almaty,53,referral,1,0
+C01856,2026-02-15,Georgia,Tbilisi,44,organic,1,0
+C01857,2024-12-07,Belarus,Minsk,57,organic,1,0
+C01858,2025-06-16,Russia,Kazan,22,referral,0,0
+C01859,2025-04-22,Kazakhstan,Astana,53,ads,1,0
+C01860,2025-11-01,Russia,Novosibirsk,21,ads,1,0
+C01861,2025-11-05,Russia,Moscow,27,email,0,0
+C01862,2024-09-26,Russia,Novosibirsk,44,referral,0,0
+C01863,2026-02-12,Russia,Kazan,41,organic,1,0
+C01864,2024-12-04,Russia,Moscow,26,ads,1,0
+C01865,2026-01-31,Russia,Novosibirsk,60,referral,1,0
+C01866,2025-01-04,Russia,Saint Petersburg,33,ads,0,0
+C01867,2024-04-11,Russia,Kazan,63,email,1,0
+C01868,2025-11-24,Russia,Kazan,18,ads,1,0
+C01869,2024-01-28,Georgia,Tbilisi,30,organic,0,0
+C01870,2025-12-05,Russia,Moscow,33,organic,1,0
+C01871,2024-02-09,Belarus,Minsk,49,referral,1,0
+C01872,2024-07-07,Russia,Kazan,39,email,1,0
+C01873,2025-07-04,Russia,Saint Petersburg,44,organic,1,1
+C01874,2026-05-08,Russia,Moscow,48,organic,0,0
+C01875,2025-01-07,Russia,Moscow,68,referral,1,0
+C01876,2024-04-20,Russia,Novosibirsk,25,organic,0,0
+C01877,2024-07-31,Russia,Moscow,44,organic,0,1
+C01878,2026-03-28,Russia,Moscow,43,referral,1,0
+C01879,2025-10-24,Russia,Kazan,56,referral,0,0
+C01880,2024-04-01,Russia,Moscow,25,referral,0,0
+C01881,2024-12-17,Russia,Kazan,30,ads,1,0
+C01882,2024-08-29,Russia,Kazan,30,organic,1,0
+C01883,2024-06-11,Russia,Kazan,50,email,1,0
+C01884,2026-02-10,Russia,Saint Petersburg,22,organic,1,0
+C01885,2025-07-17,Russia,Novosibirsk,52,organic,1,0
+C01886,2024-06-12,Russia,Kazan,44,referral,0,1
+C01887,2025-08-16,Russia,Saint Petersburg,35,ads,0,0
+C01888,2025-01-12,Georgia,Tbilisi,63,referral,1,0
+C01889,2024-02-26,Russia,Moscow,61,organic,1,0
+C01890,2025-02-14,Russia,Saint Petersburg,60,email,1,0
+C01891,2024-06-17,Russia,Moscow,64,ads,1,0
+C01892,2024-08-11,Georgia,Tbilisi,30,ads,1,0
+C01893,2026-03-12,Belarus,Minsk,63,email,1,0
+C01894,2025-10-09,Belarus,Minsk,27,ads,1,0
+C01895,2024-05-02,Georgia,Tbilisi,35,referral,1,0
+C01896,2026-02-15,Russia,Moscow,47,ads,0,0
+C01897,2025-06-07,Georgia,Tbilisi,44,referral,0,1
+C01898,2026-03-08,Russia,Moscow,48,referral,1,0
+C01899,2025-11-12,Belarus,Minsk,47,ads,1,0
+C01900,2024-11-05,Russia,Kazan,37,organic,0,0
+C01901,2025-05-02,Russia,Moscow,49,organic,1,0
+C01902,2025-04-29,Georgia,Tbilisi,43,email,1,0
+C01903,2025-10-18,Russia,Saint Petersburg,43,email,1,0
+C01904,2024-08-14,Georgia,Tbilisi,49,email,1,0
+C01905,2024-10-30,Russia,Moscow,49,organic,1,0
+C01906,2024-08-11,Belarus,Minsk,35,ads,0,0
+C01907,2024-09-27,Georgia,Tbilisi,25,referral,1,0
+C01908,2024-05-27,Russia,Moscow,33,referral,0,0
+C01909,2024-02-03,Armenia,Yerevan,39,organic,1,0
+C01910,2026-05-07,Russia,Saint Petersburg,26,ads,1,0
+C01911,2024-03-08,Kazakhstan,Astana,27,organic,0,0
+C01912,2026-03-20,Russia,Novosibirsk,68,unknown,1,0
+C01913,2024-01-03,Russia,Kazan,32,organic,1,0
+C01914,2025-12-09,Belarus,Gomel,57,organic,1,0
+C01915,2024-10-26,Russia,Novosibirsk,24,organic,1,0
+C01916,2025-04-17,Russia,Saint Petersburg,69,email,1,0
+C01917,2024-09-14,Russia,Novosibirsk,29,referral,1,0
+C01918,2025-03-23,Armenia,Yerevan,38,email,1,0
+C01919,2025-02-15,Russia,Novosibirsk,59,ads,1,0
+C01920,2025-04-28,Kazakhstan,Astana,28,unknown,0,0
+C01921,2024-12-24,Georgia,Tbilisi,47,ads,0,0
+C01922,2025-05-04,Russia,Novosibirsk,59,ads,1,0
+C01923,2026-01-22,Russia,Moscow,19,ads,1,0
+C01924,2025-01-31,Belarus,Gomel,19,referral,0,0
+C01925,2024-11-25,Russia,Kazan,44,referral,1,1
+C01926,2024-04-30,Russia,Moscow,31,referral,1,0
+C01927,2024-11-24,Belarus,Minsk,66,organic,1,0
+C01928,2024-04-24,Russia,Kazan,67,ads,0,0
+C01929,2024-06-15,Russia,Saint Petersburg,64,organic,1,0
+C01930,2026-05-18,Belarus,Minsk,70,organic,0,0
+C01931,2024-03-22,Russia,Saint Petersburg,61,referral,1,0
+C01932,2025-03-15,Russia,Novosibirsk,38,ads,0,0
+C01933,2026-01-30,Russia,Saint Petersburg,70,referral,1,0
+C01934,2026-05-19,Armenia,Yerevan,36,organic,0,0
+C01935,2024-05-13,Belarus,Minsk,49,email,0,0
+C01936,2024-05-29,Russia,Saint Petersburg,18,email,1,0
+C01937,2024-12-05,Russia,Moscow,69,ads,1,0
+C01938,2025-05-20,Russia,Kazan,49,referral,1,0
+C01939,2026-05-25,Russia,Novosibirsk,68,organic,1,0
+C01940,2024-07-08,Russia,Novosibirsk,36,referral,1,0
+C01941,2024-05-29,Georgia,Tbilisi,34,referral,1,0
+C01942,2024-08-18,Russia,Kazan,45,referral,1,0
+C01943,2026-03-08,Kazakhstan,Astana,44,referral,1,1
+C01944,2024-01-28,Russia,Saint Petersburg,47,ads,1,0
+C01945,2024-12-12,Russia,Kazan,60,referral,1,0
+C01946,2024-04-18,Russia,Moscow,29,ads,0,0
+C01947,2024-05-23,Russia,Kazan,59,organic,1,0
+C01948,2026-04-16,Kazakhstan,Astana,56,organic,0,0
+C01949,2024-01-02,Georgia,Tbilisi,65,referral,0,0
+C01950,2024-10-20,Armenia,Yerevan,21,ads,1,0
+C01951,2026-04-14,Russia,Moscow,38,ads,1,0
+C01952,2025-07-08,Kazakhstan,Astana,22,email,0,0
+C01953,2024-03-06,Russia,Kazan,39,ads,1,0
+C01954,2025-02-28,Armenia,Yerevan,58,ads,1,0
+C01955,2026-06-04,Russia,Saint Petersburg,51,ads,1,0
+C01956,2024-12-31,Russia,Kazan,57,ads,1,0
+C01957,2025-04-27,Russia,Saint Petersburg,57,referral,0,0
+C01958,2025-04-30,Russia,Saint Petersburg,70,ads,0,0
+C01959,2025-08-25,Russia,Moscow,64,ads,1,0
+C01960,2024-06-19,Armenia,Yerevan,49,referral,0,0
+C01961,2026-02-04,Kazakhstan,Almaty,64,referral,1,0
+C01962,2026-06-20,Georgia,Tbilisi,20,referral,0,0
+C01963,2024-05-10,Russia,Novosibirsk,56,organic,1,0
+C01964,2026-01-16,Russia,Novosibirsk,45,referral,0,0
+C01966,2025-11-07,Russia,Kazan,44,organic,1,0
+C01967,2024-12-04,Russia,Kazan,27,ads,0,0
+C01968,2025-03-03,Russia,Saint Petersburg,56,referral,0,0
+C01969,2026-02-04,Russia,Saint Petersburg,68,ads,0,0
+C01970,2024-05-19,Russia,Kazan,18,referral,1,0
+C01971,2026-01-25,Russia,Novosibirsk,21,organic,1,0
+C01972,2026-04-19,Belarus,Minsk,53,organic,1,0
+C01973,2025-09-13,Russia,Kazan,47,ads,1,0
+C01974,2024-11-07,Georgia,Tbilisi,47,ads,1,0
+C01975,2025-05-24,Russia,Saint Petersburg,22,ads,0,0
+C01976,2024-02-15,Kazakhstan,Almaty,48,referral,1,0
+C01977,2026-04-29,Belarus,Minsk,48,referral,0,0
+C01978,2024-11-08,Kazakhstan,Almaty,63,organic,1,0
+C01979,2024-02-22,Kazakhstan,Almaty,38,ads,1,0
+C01980,2025-12-25,Armenia,Yerevan,36,organic,1,0
+C01981,2025-08-22,Belarus,Gomel,22,ads,1,0
+C01982,2025-07-21,Russia,Kazan,48,organic,0,0
+C01983,2024-02-19,Russia,Novosibirsk,52,ads,1,0
+C01984,2025-11-15,Belarus,Minsk,32,referral,0,0
+C01985,2025-08-04,Russia,Novosibirsk,56,ads,1,0
+C01986,2025-12-24,Russia,Novosibirsk,67,organic,1,0
+C01987,2026-01-24,Russia,Saint Petersburg,27,organic,0,0
+C01988,2024-07-12,Russia,Saint Petersburg,48,ads,0,0
+C01989,2024-07-11,Russia,Saint Petersburg,54,ads,1,0
+C01990,2026-04-22,Belarus,Gomel,18,organic,0,0
+C01991,2025-04-29,Kazakhstan,Astana,27,referral,1,0
+C01992,2025-02-03,Kazakhstan,Astana,38,ads,1,0
+C01993,2024-09-18,Russia,Kazan,25,ads,1,0
+C01994,2025-08-05,Russia,Kazan,36,organic,1,0
+C01995,2025-11-18,Russia,Moscow,25,ads,1,0
+C01996,2024-01-03,Russia,Kazan,65,organic,1,0
+C01997,2025-05-19,Belarus,Minsk,49,organic,1,0
+C01998,2026-06-24,Russia,Novosibirsk,35,ads,0,0
+C01999,2024-09-12,Georgia,Tbilisi,59,ads,0,0
+C02000,2024-09-13,Russia,Novosibirsk,18,referral,1,0

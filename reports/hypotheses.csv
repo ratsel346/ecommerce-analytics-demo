@@ -1,0 +1,4 @@
+hypothesis,test,statistic,p_value,median_ads,median_organic,median_difference,mean_ads,mean_organic,mean_difference,significant,median_late,median_on_time,mean_late,mean_on_time
+amount_clean ads vs organic,Mann-Whitney U,3256480.5,0.7979659687599755,1396.81,1356.085,40.72499999999991,1902.568303176518,1885.1300191717794,17.438284004738534,False,,,,
+log(amount_clean+1) ads vs organic,Welch t-test,0.2813526000032318,0.7784514275270809,1396.81,1356.085,40.72499999999991,1902.568303176518,1885.1300191717794,17.438284004738534,False,,,,
+rating late delivery vs on-time delivery,Mann-Whitney U,861728.5,0.0,,,-2.0,,,-1.7551281394002967,True,2.0,4.0,2.481243063263041,4.236371202663338

@@ -1,0 +1,2 @@
+successful_orders_count,customers_with_successful_orders,revenue_raw,revenue_clean,avg_check_raw,avg_check_clean,median_check_clean,avg_rating,avg_delivery_days
+7259,1941,15304504.44,13596407.54,2108.3488689902188,1873.0414023970243,1346.8,3.0878485767952606,10.525807341981784
