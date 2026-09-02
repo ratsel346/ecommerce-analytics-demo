@@ -28,20 +28,20 @@
 │       └── merged_analysis.csv
 │
 ├── reports/                    # Отчёты и результаты анализа
-│   ├── data_quality.csv        # Отчёт о качестве данных
-│   ├── base_metrics.csv        # Базовые бизнес-метрики
-│   └── hypotheses.csv          # Результаты статистических тестов
+│   ├── data_quality.csv        	# Отчёт о качестве данных
+│   ├── base_metrics.csv        	# Базовые бизнес-метрики
+│   └── hypotheses.csv         	 	# Результаты статистических тестов
 │
 ├── scripts/                    # Python-скрипты
-│   ├── generate_data.py        # Генерация сырых данных
-│   ├── clean_analyze.py        # Очистка, анализ, гипотезы
-│   └── load_to_mysql.py        # Загрузка данных в MySQL
+│   ├── generate_data.py        	# Генерация сырых данных
+│   ├── clean_analyze.py        	# Очистка, анализ, гипотезы
+│   └── load_to_mysql.py        	# Загрузка данных в MySQL
 │
 ├── sql/
-│   └── views.sql               # SQL VIEW для аналитики
+│   └── views.sql               	# SQL VIEW для аналитики
 │
-├── images/                     # Скриншоты дашборда
-├── requirements.txt            # Зависимости Python
+├── img/                     # Скриншоты дашборда
+├── requirements.txt            
 └── README.md
 ```
 
