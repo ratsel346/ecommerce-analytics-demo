@@ -1,4 +1,4 @@
-E-commerce Analytics Demo Project
+# E-commerce Analytics Demo Project
 ## О проекте
 Проект демонстрирует полный цикл работы аналитика данных на примере e-commerce компании:
 1. `Генерация данных` — создание реалистичных датасетов с намеренными проблемами качества
@@ -14,32 +14,36 @@ E-commerce Analytics Demo Project
 Объём: окло 2 000 клиентов, около 10 000 заказов
 
 
+
 ## Структура проекта
-data/
-    raw/                  # сырые файлы с проблемами
-        customers.csv         # таблица с клиентами
-        orders.csv            # таблица с заказами
-    clean/                       # очищенные файлы
-        customers.csv            # очищенные клиенты
-        orders.csv               # очищенные заказы
-        merged_analysis.csv      # JOINED заказы + клиенты
-reports/                  # отчёты и результаты анализа
-    data_quality.csv             # отчёт о качестве данных
-        base_metrics.csv         # базовые бизнес-метрики
-        hypotheses.csv           # результаты стат. тестов
-scripts/                  # рython-скрипты
-    generate_data.py             # генерация сырых данных
-    clean_analyze.py             # очистка, унификация, статист.
-    load_to_mysql.py             # загрузка данных в MySQL
-sql/
-    views.sql                    # 8 SQL VIEW для аналитики
-img/                      # скриншоты дашборда
-    dashboard_kpi.png
-    dashboard_charts.png
-    dashboard_rfm.png
-requirements.txt          # зависимости рython
-gitignore
-README.md
+
+```
+├── data/
+│   ├── raw/                    # Сырые CSV-файлы
+│   │   ├── customers.csv
+│   │   └── orders.csv
+│   └── clean/                  # Очищенные CSV-файлы
+│       ├── customers.csv
+│       ├── orders.csv
+│       └── merged_analysis.csv
+│
+├── reports/                    # Отчёты и результаты анализа
+│   ├── data_quality.csv        # Отчёт о качестве данных
+│   ├── base_metrics.csv        # Базовые бизнес-метрики
+│   └── hypotheses.csv          # Результаты статистических тестов
+│
+├── scripts/                    # Python-скрипты
+│   ├── generate_data.py        # Генерация сырых данных
+│   ├── clean_analyze.py        # Очистка, анализ, гипотезы
+│   └── load_to_mysql.py        # Загрузка данных в MySQL
+│
+├── sql/
+│   └── views.sql               # SQL VIEW для аналитики
+│
+├── images/                     # Скриншоты дашборда
+├── requirements.txt            # Зависимости Python
+└── README.md
+```
 
 
 
