@@ -103,13 +103,14 @@
 
 ### Итог очистки
 Таблица "customers"
-    Было строк: 2 015 
-    Стало строк: 1 990 
-    Удалено: 25 
+- Было строк: 2 015 
+- Стало строк: 1 990 
+- Удалено: 25 
+
 Таблица "orders" 
-    Было строк: 10 025 
-    Стало строк: 9 756 
-    Удалено: 269 
+- Было строк: 10 025 
+- Стало строк: 9 756 
+- Удалено: 269 
 
 
 
@@ -128,14 +129,16 @@
 - `Welch t-test на log(amount + 1)` — дополнительный тест для проверки устойчивости результата
 
 Результаты:
-     Тест                 p-value         Значим при α = 0.05 
-  Mann-Whitney U           0.798                 Нет 
-  Welch t-test (log)       0.778                 Нет 
+| Тест | p-value | Значим при α = 0.05 |
+|---|---:|---|
+| Mann-Whitney U | 0.798 | Нет |
+| Welch t-test (log) | 0.778 | Нет |
 
 Описательная статистика:
- Канал            N           Медиана            Среднее 
- ads            2 487          1 397              1 903 
- organic        2 608          1 356              1 885 
+| Канал | N | Медиана | Среднее |
+|---|---:|---:|---:|
+| ads | 2 487 | 1 397 | 1 903 |
+| organic | 2 608 | 1 356 | 1 885 |
 
 `Вывод:` Статистически значимой разницы в среднем чеке между каналами `ads` и `organic` не обнаружено
 Разница медиан в 41 руб при среднем чеке в 1 900 руб не является практически значимой
@@ -158,21 +161,23 @@
 - `Mann-Whitney U test` — подходит для порядковых метрик (рейтинг) и скошенных распределений
 
 `Результаты:`
- Тест                   p-value         Значим при α = 0.05 
- Mann-Whitney U         < 0.0001                Да 
+| Тест | p-value | Значим при α = 0.05 |
+|---|---:|---|
+| Mann-Whitney U | < 0.0001 | Да |
 
 `Описательная статистика:`
- Группа                  N        Медиана        Среднее 
- Доставка ≤ 7 дн       2 403        4.0            4.24 
- Доставка > 7 дн.      4 505        2.0            2.48 
+| Группа | N | Медиана | Среднее |
+|---|---:|---:|---:|
+| Доставка ≤ 7 дней | 2 403 | 4.0 | 4.24 |
+| Доставка > 7 дней | 4 505 | 2.0 | 2.48 |
 
 `Детализация по срокам доставки:`
- Срок           Кол-во         Ср.            Доля
- доставки       заказов      рейтинг       плохих оценок 
- 1–3 дня         1 063        4.56             3.3%    
- 4–7 дней        1 340        3.98             22.1%  
- 8–14 дней       2 439        3.00             76.6% 
- 15+ дней        2 066        1.87             99.4% 
+| Срок доставки | Кол-во заказов | Ср. рейтинг | Доля плохих оценок |
+|---|---:|---:|---:|
+| 1–3 дня | 1 063 | 4.56 | 3.3% |
+| 4–7 дней | 1 340 | 3.98 | 22.1% |
+| 8–14 дней | 2 439 | 3.00 | 76.6% |
+| 15+ дней | 2 066 | 1.87 | 99.4% |
 
 `Вывод:` Заказы с доставкой дольше 7 дней имеют статистически значимо более низкий рейтинг (p < 0.0001)
 Критическая точка — 7 дней
@@ -209,9 +214,9 @@
 WITH mounthly AS (
 	SELECT 
 		CAST(DATE_FORMAT(order_date, '%Y-%m-01') AS DATE) 		AS month,
-        SUM(amount_raw) 	AS revenue_raw,
-        SUM(amount_clean) 	AS revenue_clean,
-        COUNT(DISTINCT order_id) 	AS orders_count,
+        SUM(amount_raw) 				AS revenue_raw,
+        SUM(amount_clean) 				AS revenue_clean,
+        COUNT(DISTINCT order_id) 		AS orders_count,
         COUNT(DISTINCT customer_id)		AS customers_count,
         ROUND(AVG(amount_clean), 2) 	AS avg_check_clean
 	FROM v_orders_joined
@@ -236,10 +241,10 @@ SELECT
 	orders_count,
 	customers_count,
 	avg_check_clean,
-    SUM(revenue_clean) OVER(ORDER BY month ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW)          AS revenue_cleaning_running,
+    SUM(revenue_clean) OVER(ORDER BY month ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW)          	AS revenue_cleaning_running,
     ROUND(AVG(revenue_clean) OVER(ORDER BY month ROWS BETWEEN 2 PRECEDING AND CURRENT ROW), 2) 			AS revenue_clean_MA3,
     prev_revenue_clean,
-    ROUND((revenue_clean - prev_revenue_clean) / NULLIF(prev_revenue_clean, 0) * 100, 2) 		AS MoM_growth_procent
+    ROUND((revenue_clean - prev_revenue_clean) / NULLIF(prev_revenue_clean, 0) * 100, 2) 				AS MoM_growth_procent
 FROM mounthly_with_lag
 ORDER BY month
 ```
@@ -254,8 +259,8 @@ SELECT
         WHEN delivery_days <= 7 THEN '4-7 days'
         WHEN delivery_days <= 14 THEN '8-14 days'
         ELSE '15+ days'
-    END 							AS delivery_bucket,
-    COUNT(*) 						AS orders_count,
+    END 										AS delivery_bucket,
+    COUNT(*) 									AS orders_count,
 	ROUND(AVG(rating), 2) AS avg_rating,
     ROUND(SUM(CASE
             WHEN rating <= 3 THEN 1
